@@ -1,0 +1,245 @@
+Animate	5005	noun.person
+Mental	2829	noun.communication
+Animate	2790	noun.person
+Property	2061	noun.attribute; adj.all
+Animate	2061	noun.individual
+Object	1957	noun.artifact
+Object	1925	noun.artifact
+Mental	1843	noun.quantity
+Animate	1781	noun.person
+Mental	1372	noun.institution
+Animate	1358	noun.animal
+Mental	1315	noun.time
+Object	1247	noun.building
+Object	1201	noun.location
+Object	1023	noun.artifact
+Mental	999	noun.feeling; adj.mental
+Physical	990	noun.phenomenon; adj.phys
+Plant	949	noun.plant
+Agentive	811	noun.act; verb.social
+Object	806	noun.container
+Object	804	noun.substance
+Mental	783	noun.communication
+Mental	783	verb.communication
+Object	780	noun.location
+Object	753	noun.artifact
+Mental	743	noun.domain
+Object	733	noun.body
+Mental	717	noun.cognition
+Object	685	noun.artifact
+Agentive	681	noun.act; verb.social
+Agentive	665	noun.communication; verb.communication
+BoundedEvent	647	noun.phenomenon; verb.phenomenon
+Object	641	noun.vehicle
+UnboundedEvent	640	verb.stative
+UnboundedEvent	640	noun.process
+UnboundedEvent	640	noun.state
+BoundedEvent	640	verb.body
+Property	639	adj.all
+Property	638	adv.all
+Property	638	adj.ppl
+Property	638	adj.pert
+Property	638	adj.rel
+Agentive	637	verb.competition
+BoundedEvent	636	verb.change
+BoundedEvent	626	noun.event; verb.change
+BoundedEvent	603	noun.event; verb.motion
+Agentive	599	noun.act; verb.act
+Mental	596	noun.abstract
+Object	536	noun.artifact
+Object	536	noun.location
+Property	536	noun.disease; adj.phys
+Object	513	noun.food
+Mental	498	noun.abstract
+Object	479	noun.food
+Mental	476	noun.feeling; verb.emotion
+Agentive	462	noun.act;verb.act
+Property	431	noun.attribute; adj.social
+UnboundedEvent	444	verb.contact
+UnboundedEvent+Agentive+Purpose	430	noun.act; verb.act
+Object	408	noun.artifact
+Dynamic	407	noun.act; verb.motion
+Agentive	407	verb.consumption
+BoundedEvent+Agentive+Purpose+Communication	396	noun.communication; verb.communication
+Property+Physical+Colour	390	noun.attribute; adj.phys
+BoundedEvent+Cause+Physical	385	noun.event; verb.phenomenon
+UnboundedEvent+Cause+Physical+Location	380	noun.act; verb.motion
+Dynamic+Agentive+Purpose	375	noun.act; verb.act
+Place+Object+Natural	375	noun.location
+Mental	369	noun.abstract
+BoundedEvent+Agentive	369	noun.act; verb.act
+Dynamic+BoundedEvent+Physical	358	noun.phenomenon; verb.phenomenon
+BoundedEvent	346	noun.act; verb.act
+Comestible+Artifact+Liquid	337	noun.food
+Mental	330	noun.cognition; verb.cognition
+BoundedEvent+Agentive+Physical+Location	329	noun.act; verb.motion
+UnboundedEvent+Communication+Purpose+Social	327	noun.communication; verb.communication
+Object	324	noun.food; noun.plant
+Furniture+Artifact+Object	312	noun.artifact
+Artifact+Object(+Artwork)	306	noun.artifact
+BoundedEvent+BoundedEvent	306	noun.phenomenon; verb.phenomenon
+Instrument+Artifact+Object+Part	306	noun.artifact
+Plant+Object+Part	302	noun.plant
+UnboundedEvent+Agentive	292	noun.act; verb.act
+Agentive	287	noun.act; verb.act
+Mental	280	noun.cognition
+Dynamic+Agentive	276	noun.act; verb.act
+UnboundedEvent+Agentive+Physical+Social	274	noun.act; verb.social
+UnboundedEvent+Agentive+Physical+Location	270	noun.act; verb.motion
+UnboundedEvent+Agentive+Physical	255	noun.act; verb.act
+BoundedEvent+Agentive+Mental+Purpose	248	noun.cognition; verb.cognition
+Vehicle+Object+Artifact+Part	245	noun.artifact
+Static	244	noun.state;verb.static
+BoundedEvent+Agentive+Physical+Purpose	239	noun.act; verb.change
+Substance	236	noun.substance
+MoneyRepresentation	224	noun.artifact
+BoundedEvent+Agentive+Condition+Physical	209	noun.act; verb.act
+Object	201	noun.object
+Property	181	noun.shape; adj.phys
+Agentive	169	noun.act; verb.creation
+Garment+Artifact+Object+Part	164	noun.artifact
+UnboundedEvent+Mental	163	noun.feeling; verb.emotion
+LanguageRepresentation+Artifact+Object+Part	162	noun.communication
+UnboundedEvent+Experience+Physical	159	noun.phenomenon; verb.phenomenon
+Artifact+Object+Group	156	noun.artifact
+UnboundedEvent+BoundedEvent	155	noun.phenomenon; verb.phenomenon
+Natural+Object+Part	150	noun.object
+BoundedEvent+Agentive+Mental	146	noun.cognition; verb.cognition
+Animal+Comestible+Part	144	noun.food
+UnboundedEvent	139	noun.event; verb.phenomenon
+BoundedEvent+Cause+Existence	138	noun.event; verb.phenomenon
+Liquid+Artifact	138	noun.artifact
+Dynamic+Cause+Physical	136	noun.act; verb.act
+Plant+Object+Comestible	136	noun.food; noun.plant
+Property	136	noun.time; adj.time
+Garment+Artifact+Object+Group	131	noun.artifact
+BoundedEvent+Physical+Location	123	noun.event; verb.motion
+Creature	123	noun.object
+Place+Object+Artifact+Part	123	noun.artifact
+Liquid+Natural	118	noun.substance
+Mental+Mental+Location	116	noun.cognition
+Instrument+Artifact+Object+Group	116	noun.artifact
+Animal+Object+Part	114	noun.body
+BoundedEvent+Physical	114	noun.event; verb.change
+UnboundedEvent+Cause+Physical	113	noun.act; verb.change
+Mental	112	noun.act; verb.possession
+Comestible	111	noun.food
+Object	110	noun.group
+Underspecified	110	noun.TOP
+Dynamic	103	noun.event
+Object+Part	97	noun.object
+Living+Object	93	noun.object
+BoundedEvent+Agentive+Purpose+Social	92	noun.act; verb.social
+BoundedEvent+Agentive+Physical+Existence+Purpose	90	noun.act; verb.creation
+UnboundedEvent+Agentive+Existence	89	noun.act; verb.act
+UnboundedEvent+Physical+Location	89	noun.location; verb.motion
+LanguageRepresentation+Artifact+Object+Group	87	noun.communication
+Object	86	noun.object
+UnboundedEvent+Cause	86	noun.act; verb.phenomenon
+UnboundedEvent	83	noun.state; verb.static
+BoundedEvent+Agentive+Physical+Social	82	noun.act; verb.social
+BoundedEvent	79	noun.creation; verb.act
+Plant+Group	79	noun.plant
+Animal+Object+Group	75	noun.animal
+BoundedEvent+Agentive+Purpose+Possession	75	noun.act; verb.possession
+Natural+Substance+Part	74	noun.substance
+Building+Object+Group	70	noun.building
+1stOrderEntity	69	noun.TOP
+BoundedEvent+Agentive+Mental+Communication	67	noun.communication; verb.communication
+BoundedEvent+Mental	67	noun.feeling; verb.emotion
+Comestible+Artifact+Object+Part	66	noun.food
+Place+Object+Natural+Part	65	noun.location
+Dynamic+BoundedEvent	64	noun.phenomenon; verb.phenomenon
+Place+Object+Part	61	noun.location
+Dynamic+Agentive+Social	60	noun.act; verb.social
+Mental	59	noun.motive
+Mental	56	noun.feeling; verb.perception
+UnboundedEvent	54	verb.TOP; noun.TOP
+Comestible+Natural+Substance	52	noun.food
+Dynamic+Agentive+Mental+Purpose	52	noun.cognition; verb.cognition
+Place+Liquid+Natural	52	noun.location
+BoundedEvent+Experience+Physical	50	noun.event; verb.phenomenon
+Object	48	noun.food
+Object	48	noun.food
+UnboundedEvent	46	verb.social
+Furniture+Artifact+Object+Part	41	noun.artifact
+Comestible+Natural+Liquid	37	noun.food
+Dynamic+Experience	35	noun.feeling; verb.perception
+Dynamic+BoundedEvent+Physical+Condition	35	noun.phenomenon; verb.phenomenon
+Dynamic+Possession	35	noun.possession; verb.possession
+Part	30	noun.object
+Property	29	noun.attribute; adj.phys
+UnboundedEvent	29	noun.relation; verb.static
+BoundedEvent+Possession	28	noun.possession; verb.possession
+Natural+Group	28	noun.object
+BoundedEvent+Communication	27	noun.communication; verb.communication
+Property+Location	27	noun.location; adj.phys
+Covering	25	noun.artifact
+Group	25	noun.group
+Vehicle+Object+Artifact+Group	24	noun.vehicle
+BoundedEvent+Social	22	noun.event; verb.social
+Mental+Mental+Experience	20	noun.cognition
+Mental+Quantity+Part	20	noun.quantity
+Group+Object+Living	20	noun.group
+Dynamic+Agentive+Mental	19	noun.cognition; verb.cognition
+Relation	19	noun.relation
+Static+Existence	17	noun.state; verb.static
+Static+Social	16	noun.state; verb.static
+Group+Object+Natural	14	noun.group
+Liquid	14	noun.substance
+Place+Object+Group	13	noun.location
+Static+Mental	11	noun.state; verb.static
+Mental+Part	10	noun.abstract
+Mental+Time+Part	10	noun.time
+Mental+Relation	9	noun.relation
+Form	9	noun.shape
+Furniture+Artifact+Object+Group	9	noun.artifact
+UnboundedEvent+Time	9	noun.time
+BoundedEvent+Location	8	noun.event; verb.motion
+Relation+Possession	8	noun.relation
+Comestible+Group	7	noun.food
+Container+Artifact+Object+Group	7	noun.container
+Representation	7	noun.artifact
+Container+Artifact+Object+Part	6	noun.artifact
+Property+LanguageRepresentation	6	noun.attribute; adj.phys
+Property+Stimulating+Physical	6	noun.phenomenon; adj.phys
+Place	5	noun.location
+Artifact+Substance+Part	4	noun.artifact
+BoundedEvent+Agentive+Purpose+Possession+Social	4	noun.act; verb.social
+BoundedEvent+Experience+Mental	3	noun.cognition
+Comestible+Artifact+Substance+Part	3	noun.food
+Comestible+Natural+Substance+Part	3	noun.food
+BoundedEvent+Agentive+Experience+Condition+Purpose	2	noun.act
+BoundedEvent+Agentive+Time	2	noun.act
+Garment	2	noun.artifact
+Mental+Quantity+MoneyRepresentation	1	noun.quantity
+Relation+Location	1	noun.relation
+Software	1	noun.artifact
+BoundedEvent	39	verb.weather
+Object	34	noun.cell
+Mental	34	noun.knowledge
+Object	22	noun.space
+Object	18	noun.amount
+Animate	15	noun.someone
+Mental	11	noun.need
+Object	11	noun.creature
+Object	10	noun.entity
+Animate	9	noun.organism
+Mental	6	noun.soul
+Object	6	noun.matter
+Object	6	noun.form
+Mental	5	noun.motivation
+Property	5	noun.life
+Animate	5	noun.human
+Object	4	noun.quantum
+Animate	4	noun.being
+Mental	4	noun.article
+Object	3	noun.grouping
+Mental	2	noun.measure
+Mental	2	noun.cause
+Animate	2	noun.beast
+Mental	1	noun.social_relation
+Object	1	noun.nutrient
+Animate	1	noun.mortal
+Animate	1	noun.living_thing
+BoundedEvent	1	noun.human_action
