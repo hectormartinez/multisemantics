@@ -32,13 +32,16 @@ def replace_label(label,lookup):
     if len(label) < 2:
         return label
     else:
-        return lookup[label]
+        if label.startswith("B-") or label.startswith("I-"):
+            prefix = label[0:2]
+            return lookup[label[2:]]
+        else:
+            lookup[label]
 
 for line in open(args.infile).readlines():
     line = line.strip()
     if line:
         word,label = line.split("\t")
-        print(word,replace_label(label,semtypes))
+        print(word+"\t"+replace_label(label,semtypes))
     else:
-        pass
-        #print()
+        print()

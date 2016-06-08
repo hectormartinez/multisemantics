@@ -35,6 +35,7 @@ UnboundedEvent	640	verb.stative
 UnboundedEvent	640	noun.process
 UnboundedEvent	640	noun.state
 BoundedEvent	640	verb.body
+BoundedEvent	640	verb.aspectual
 Property	639	adj.all
 Property	638	adv.all
 Property	638	adj.ppl
@@ -60,6 +61,10 @@ UnboundedEvent+Agentive+Purpose	430	noun.act; verb.act
 Object	408	noun.artifact
 Dynamic	407	noun.act; verb.motion
 Agentive	407	verb.consumption
+Multiword	666	verb.REFLPRON
+Multiword	666	verb.COLL
+Multiword	666	verb.PARTICLE
+Object	666	noun.Tops
 BoundedEvent+Agentive+Purpose+Communication	396	noun.communication; verb.communication
 Property+Physical+Colour	390	noun.attribute; adj.phys
 BoundedEvent+Cause+Physical	385	noun.event; verb.phenomenon
