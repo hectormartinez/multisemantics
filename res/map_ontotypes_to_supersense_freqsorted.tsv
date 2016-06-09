@@ -14,8 +14,8 @@ Object	1247	noun.building
 Object	1201	noun.location
 Object	1023	noun.artifact
 Mental	999	noun.feeling; adj.mental
-Physical	990	noun.phenomenon; adj.phys
-Plant	949	noun.plant
+Object	990	adj.phys
+Object	949	noun.plant
 Agentive	811	noun.act; verb.social
 Object	806	noun.container
 Object	804	noun.substance
