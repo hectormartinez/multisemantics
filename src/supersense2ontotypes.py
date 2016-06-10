@@ -6,6 +6,8 @@ from collections import Counter, defaultdict
 parser = argparse.ArgumentParser(description="")
 parser.add_argument("--infile",   metavar="FILE", default="../data/semcor_supersense/eng_semcor_test.conll")
 parser.add_argument("--ontotypes",   metavar="FILE", default="../res/map_ontotypes_to_supersense_freqsorted.tsv")
+parser.add_argument("--bio",   default=False, action='store_true')
+
 args = parser.parse_args()
 
 
@@ -28,20 +30,23 @@ for line in open(args.ontotypes).readlines():
 #    print(len(semtypes[s]),s,semtypes[s])
 
 
-def replace_label(label,lookup):
+def replace_label(label,lookup,bio):
     if len(label) < 2:
         return label
     else:
         if label.startswith("B-") or label.startswith("I-"):
             prefix = label[0:2]
-            return lookup[label[2:]]
+            outlabel= lookup[label[2:]]
         else:
-            lookup[label]
+            outlabel = lookup[label]
+        if bio:
+            outlabel = prefix+outlabel
+        return outlabel
 
 for line in open(args.infile).readlines():
     line = line.strip()
     if line:
         word,label = line.split("\t")
-        print(word+"\t"+replace_label(label,semtypes))
+        print(word+"\t"+replace_label(label,semtypes,args.bio))
     else:
         print()
