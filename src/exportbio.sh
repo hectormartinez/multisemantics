@@ -1,0 +1,6 @@
+python supersense2ontotypes.py --infile ../data/semcor_supersenses/semcor_supersense_dev.conll --bio > ../data/semcor_biosemantictraits/semcor_biosemantictraits_dev.conll
+python supersense2ontotypes.py --infile ../data/semcor_supersenses/semcor_supersense_test.conll --bio > ../data/semcor_biosemantictraits/semcor_biosemantictraits_test.conll
+python supersense2ontotypes.py --infile ../data/semcor_supersenses/semcor_supersense_train.conll --bio > ../data/semcor_biosemantictraits/semcor_biosemantictraits_train.conll
+python supersense2ontotypes.py --infile ../data/semdax_supersenses/semdax_supersense_dev.conll --bio > ../data/semdax_biosemantictraits/semdax_biosemantictraits_dev.conll
+python supersense2ontotypes.py --infile ../data/semdax_supersenses/semdax_supersense_test.conll --bio > ../data/semdax_biosemantictraits/semdax_biosemantictraits_test.conll
+python supersense2ontotypes.py --infile ../data/semdax_supersenses/semdax_supersense_train.conll --bio > ../data/semdax_biosemantictraits/semdax_biosemantictraits_train.conll
