@@ -2,7 +2,8 @@ December	B-Name
 10	B-Number
 ,	O
 1996	B-Whole
-	You	B-Partner_1
+
+You	B-Partner_1
 and	I-Agent
 I	B-Partner_2
 have	O
@@ -12,7 +13,8 @@ important	I-Undertaking
 work	I-Undertaking
 together	B-Manner
 .	O
-	We	B-Helper
+
+We	B-Helper
 've	O
 helped	O
 people	B-Person
@@ -23,7 +25,8 @@ the	I-Goal
 welfare	I-Goal
 cycle	I-Goal
 .	O
-	We	B-Agent
+
+We	B-Agent
 've	O
 found	O
 ways	B-Means
@@ -36,7 +39,8 @@ enter	I-Purpose
 the	B-Group
 workforce	I-Group
 .	O
-	We	B-Agent
+
+We	B-Agent
 've	O
 expanded	O
 Goodwill	B-Agent
@@ -53,7 +57,8 @@ are	I-Figure
 needed	I-Figure
 most	B-Degree
 .	O
-	Of	O
+
+Of	O
 course	O
 ,	O
 we	B-Performer
@@ -62,7 +67,8 @@ played	O
 different	B-Role
 roles	B-Role
 .	O
-	You	B-Agent
+
+You	B-Agent
 have	O
 helped	O
 make	B-Goal
@@ -75,7 +81,8 @@ your	I-Means
 previous	B-Direction
 support	B-Event
 .	O
-	Goodwill	B-Cognizer
+
+Goodwill	B-Cognizer
 has	O
 devised	O
 the	B-Agent
@@ -87,7 +94,8 @@ investment	I-Initial_category
 into	B-Final_category
 results	I-Final_category
 .	O
-	When	O
+
+When	O
 you	B-Helper
 and	I-Helper
 I	I-Helper
@@ -121,7 +129,8 @@ gain	I-Trajector_event
 another	B-Added_set
 consumer	I-Added_set
 .	O
-	There	O
+
+There	O
 are	O
 a	B-Quantity
 lot	I-Quantity
@@ -149,7 +158,8 @@ education	I-Possession
 or	I-Possession
 self-esteem	I-Possession
 .	O
-	And	O
+
+And	O
 there	O
 are	O
 a	B-Quantity
@@ -166,13 +176,15 @@ of	B-Whole
 their	B-Group
 lives	I-Group
 .	O
-	So	O
+
+So	O
 our	B-Required_situation
 work	I-Required_situation
 must	O
 continue	B-Required_situation
 .	O
-	Everyone	O
+
+Everyone	O
 benefits	O
 from	O
 the	B-Act
@@ -181,19 +193,22 @@ we	B-Partners
 do	B-Undertaking
 together	B-Manner
 .	O
-	Many	B-Cognizer
+
+Many	B-Cognizer
 people	I-Cognizer
 need	O
 our	B-Helper
 help	I-Requirement
 .	O
-	Please	O
+
+Please	O
 continue	O
 our	B-Interested_party
 important	I-Activity
 partnership	B-Factor
 .	O
-	Support	O
+
+Support	O
 Goodwill	B-Supported
 with	B-Means
 a	I-Means
@@ -201,17 +216,20 @@ generous	B-Depictive
 donation	B-Resource
 today	B-Time
 .	O
-	James	B-Leader
+
+James	B-Leader
 M.	I-Leader
 McClelland	I-Leader
 President	O
-	The	O
+
+The	O
 Entrepreneur	O
 Is	O
 the	O
 New	B-Age
 Madonna	B-Entity
-	Almost	B-Denoted_quantity
+
+Almost	B-Denoted_quantity
 every	B-Individuals
 assignment	I-Individuals
 is	O
@@ -229,7 +247,8 @@ to	B-Characterization
 get	I-Characterization
 easier	I-Characterization
 .	O
-	I	B-Cognizer
+
+I	B-Cognizer
 often	O
 feel	B-Event
 as	B-Opinion
@@ -263,7 +282,8 @@ will	I-Event
 ever	I-Event
 need	I-Event
 .	O
-	I	B-Cognizer
+
+I	B-Cognizer
 think	O
 that	B-Opinion
 is	I-Opinion
@@ -296,7 +316,8 @@ of	I-Theme
 daily	I-Theme
 journalism	I-Theme
 .	O
-	Think	O
+
+Think	O
 of	B-Topic
 all	B-Aggregate
 the	I-Aggregate
@@ -316,7 +337,8 @@ add	B-Event
 to	I-Event
 stories	I-Event
 .	O
-	Most	B-Degree
+
+Most	B-Degree
 often	O
 reporters	B-Event
 recount	I-Event
@@ -338,7 +360,8 @@ the	I-Event
 general	I-Event
 public	I-Event
 .	O
-	Much	B-Entity
+
+Much	B-Entity
 of	I-Entity
 it	I-Entity
 ,	O
@@ -376,7 +399,8 @@ very	B-Individuals
 good	I-Individuals
 stories	I-Individuals
 .	O
-	I	B-Event
+
+I	B-Event
 often	O
 wonder	B-Event
 when	B-Landmark_period
@@ -404,7 +428,8 @@ too	I-Reason
 close	I-Reason
 )	O
 .	O
-	In	B-Circumstances
+
+In	B-Circumstances
 any	I-Circumstances
 case	I-Circumstances
 ,	O
@@ -431,7 +456,8 @@ current	I-Final_category
 pop	B-Trajector_entity
 icons	I-Trajector_entity
 .	O
-	I	O
+
+I	O
 would	O
 posit	O
 that	O
@@ -460,7 +486,8 @@ of	I-Salient_event
 the	I-Salient_event
 entrepreneur	I-Salient_event
 .	O
-	So	O
+
+So	O
 the	O
 shift	O
 in	B-Attribute
@@ -478,7 +505,8 @@ me	B-Perceiver_agentive
 to	I-Circumstances
 watch	I-Circumstances
 .	O
-	The	B-Trajector_event
+
+The	B-Trajector_event
 smart-boy	I-Trajector_event
 technologist	I-Trajector_event
 is	I-Trajector_event
@@ -490,7 +518,8 @@ the	I-Trajector_event
 whiny	I-Trajector_event
 bully	I-Trajector_event
 .	O
-	I	B-Event
+
+I	B-Event
 personally	I-Event
 always	O
 thought	B-Event
@@ -534,7 +563,8 @@ a	I-Added_set
 better	I-Added_set
 word	I-Added_set
 .	O
-	So	O
+
+So	O
 there	B-Ground
 ,	O
 while	B-Figure
@@ -558,7 +588,8 @@ of	I-Item
 other	I-Item
 executives	I-Item
 .	O
-	Steve	B-Trajector_event
+
+Steve	B-Trajector_event
 Ballmer	I-Trajector_event
 ,	O
 of	O
@@ -586,7 +617,8 @@ show	I-Figure
 over	B-Direction
 there	B-Ground
 .	O
-	While	O
+
+While	O
 I	B-Reader
 did	O
 not	O
@@ -645,7 +677,8 @@ look	O
 so	B-Appraisal
 good	B-Scale
 .	O
-	That	B-Effect
+
+That	B-Effect
 's	I-Effect
 ironic	I-Effect
 ,	O
@@ -682,7 +715,8 @@ in	I-Cause
 Silicon	B-Name
 Valley	I-Name
 .	O
-	AOL	B-Event
+
+AOL	B-Event
 would	I-Event
 never	I-Effect
 have	B-Event
@@ -711,7 +745,8 @@ by	B-Cognizer
 the	I-Cognizer
 digerati	I-Cognizer
 .	O
-	Out	B-Circumstances
+
+Out	B-Circumstances
 in	I-Circumstances
 the	I-Circumstances
 D.C.	I-Circumstances
@@ -728,7 +763,8 @@ the	B-Individuals
 government-oriented	I-Individuals
 contractors	I-Individuals
 .	O
-	I	B-Cognizer
+
+I	B-Cognizer
 wonder	O
 if	B-Topic
 that	B-Support
@@ -747,7 +783,8 @@ location	B-Locale
 ,	I-State_of_affairs
 location	B-Locale
 .	O
-	From	B-Circumstances
+
+From	B-Circumstances
 where	B-Location
 I	B-Agent
 am	I-Circumstances
@@ -774,7 +811,8 @@ the	I-Ground
 digital	B-Salient_event
 age	B-Unit
 .	O
-	I	B-Effect
+
+I	B-Effect
 think	I-Effect
 it	I-Effect
 almost	I-Effect
@@ -807,7 +845,8 @@ it	B-Figure
 will	I-Phenomenon
 land	I-Phenomenon
 .	O
-	Will	O
+
+Will	O
 the	O
 strongman	O
 of	B-Time
@@ -830,7 +869,8 @@ big	I-Agent
 media	I-Agent
 companies	I-Agent
 ?	O
-	Or	O
+
+Or	O
 will	B-Effect
 it	I-Effect
 be	I-Effect
@@ -861,7 +901,8 @@ allowed	I-Action
 to	B-Action
 dominate	I-Action
 ?	O
-	I	B-Trajector_event
+
+I	B-Trajector_event
 always	I-Trajector_event
 use	I-Trajector_event
 two	I-Trajector_event
@@ -895,7 +936,8 @@ destinies	I-Landmark_event
 Babylon	B-Entity
 was	O
 .	O
-	That	B-Agent
+
+That	B-Agent
 incredible	I-Agent
 empire	B-Protagonist
 dominated	O
@@ -924,7 +966,8 @@ grip	I-Event
 on	I-Event
 humanity	I-Event
 .	O
-	But	O
+
+But	O
 we	B-Cognizer
 all	I-Cognizer
 know	O
@@ -934,7 +977,8 @@ story	I-Content
 turned	I-Content
 out	I-Content
 .	O
-	Now	B-Time
+
+Now	B-Time
 I	B-Trajector_event
 am	I-Trajector_event
 getting	I-Trajector_event
@@ -953,7 +997,8 @@ so	O
 why	O
 not	O
 ?	O
-	Perhaps	O
+
+Perhaps	O
 you	B-Self_mover
 could	O
 hasten	B-Event
@@ -966,7 +1011,8 @@ is	I-Goal
 all	I-Goal
 going	I-Goal
 .	O
-	As	O
+
+As	O
 for	O
 me	O
 ,	O
@@ -988,7 +1034,8 @@ life	B-Content
 nobody	B-Cognizer
 knows	O
 .	O
-	A	B-Perceiver_passive
+
+A	B-Perceiver_passive
 12-year-old	I-Perceiver_passive
 boy	I-Perceiver_passive
 reports	O
@@ -1007,7 +1054,8 @@ at	I-Source
 the	I-Source
 harbor	I-Source
 .	O
-	FBI	B-Perceiver
+
+FBI	B-Perceiver
 officials	I-Perceiver
 find	O
 what	B-Content
@@ -1020,7 +1068,8 @@ in	B-Location
 the	I-Location
 car	B-Vehicle
 .	O
-	Yemeni	O
+
+Yemeni	O
 police	O
 trace	O
 the	O
@@ -1030,7 +1079,8 @@ a	O
 nearby	O
 house	B-Building
 .	O
-	The	B-Perceiver
+
+The	B-Perceiver
 FBI	I-Perceiver
 finds	O
 traces	B-Sought_entity
@@ -1059,7 +1109,8 @@ for	I-Descriptor
 several	I-Descriptor
 weeks	I-Descriptor
 .	O
-	Police	B-Perceiver
+
+Police	B-Perceiver
 also	O
 find	O
 a	B-Sought_entity
@@ -1081,7 +1132,8 @@ doing	I-Sought_entity
 some	I-Sought_entity
 welding	I-Sought_entity
 .	O
-	Passports	B-Medium
+
+Passports	B-Medium
 found	I-Medium
 in	I-Medium
 one	I-Medium
@@ -1102,7 +1154,8 @@ for	I-Unconfirmed_content
 lawless	I-Unconfirmed_content
 tribes	B-Protagonist
 .	O
-	But	O
+
+But	O
 the	O
 documents	B-Document
 turn	O
@@ -1111,7 +1164,8 @@ to	O
 be	O
 fakes	O
 .	O
-	Meantime,	O
+
+Meantime,	O
 analysts	B-Cognizer
 at	I-Cognizer
 the	I-Cognizer
@@ -1128,7 +1182,8 @@ was	I-Phenomenon
 made	I-Phenomenon
 from	B-Resource
 .	O
-	No	B-Message
+
+No	B-Message
 conclusions	I-Message
 yet	I-Message
 ,	O
@@ -1144,7 +1199,8 @@ theory	I-Message
 plastic	B-Weapon
 explosive	I-Weapon
 .	O
-	But	O
+
+But	O
 Yemen	B-Speaker
 's	I-Speaker
 president	I-Speaker
@@ -1171,7 +1227,8 @@ two	I-Name
 Arab	I-Name
 countries	B-Locale
 .	O
-	And	O
+
+And	O
 to	O
 a	O
 former	B-Descriptor
@@ -1198,7 +1255,8 @@ into	B-Result
 different	I-Result
 shapes	I-Result
 .	O
-	U.S.	B-Governed
+
+U.S.	B-Governed
 Democratic	B-Domain
 Party	I-Domain
 Congressman	B-Role
@@ -1225,7 +1283,8 @@ sanctions	I-Landmark
 since	B-Time
 1990	I-Time
 .	O
-	In	B-Medium
+
+In	B-Medium
 a	I-Medium
 statement	I-Medium
 ,	O
@@ -1244,7 +1303,8 @@ on	B-Offender
 Iraqi	I-Offender
 people	I-Offender
 .	O
-	During	B-Time
+
+During	B-Time
 his	I-Time
 four-day	I-Time
 stay	I-Time
@@ -1263,7 +1323,8 @@ southern	I-Goal
 Muthana	I-Goal
 Province	I-Goal
 .	O
-	The	B-Message
+
+The	B-Message
 U.S.	B-Governed
 lawmaker	B-Leader
 got	I-Message
@@ -1300,7 +1361,8 @@ Agency	B-Members
 INA	I-Speaker
 )	I-Speaker
 .	O
-	He	B-Perceiver_passive
+
+He	B-Perceiver_passive
 also	I-Message
 witnessed	I-Message
 cases	B-Phenomenon
@@ -1331,7 +1393,8 @@ said	O
 the	B-Speaker
 INA	I-Speaker
 .	O
-	Hall	B-Theme
+
+Hall	B-Theme
 said	O
 on	B-Time
 Monday	B-Unit
@@ -1357,7 +1420,8 @@ the	I-Goal
 Iraqi	I-Goal
 capital	I-Goal
 .	O
-	Iraq	B-Speaker
+
+Iraq	B-Speaker
 has	O
 claimed	O
 that	B-Message
@@ -1395,7 +1459,8 @@ other	O
 essential	O
 supplies	O
 .	O
-	Hall	B-Trajector_event
+
+Hall	B-Trajector_event
 's	I-Trajector_event
 landmark	I-Trajector_event
 visit	I-Trajector_event
@@ -1416,7 +1481,8 @@ Amman	I-Landmark_event
 ,	I-Landmark_event
 Jordan	I-Landmark_event
 .	O
-	Upon	O
+
+Upon	O
 arrival	O
 ,	O
 Hall	B-Agent
@@ -1446,7 +1512,8 @@ political	I-Message
 but	I-Message
 humanitarian	I-Message
 .	O
-	``	B-Message
+
+``	B-Message
 There	I-Message
 are	I-Message
 a	I-Message
@@ -1473,7 +1540,8 @@ one	I-Message
 he	B-Speaker
 said	O
 .	O
-	Rep	B-Speaker
+
+Rep	B-Speaker
 .	I-Speaker
 Tony	I-Speaker
 Hall	I-Speaker
@@ -1497,7 +1565,8 @@ medicine	I-Action
 into	I-Action
 Iraq	I-Action
 .	O
-	Hall	B-Trajector_event
+
+Hall	B-Trajector_event
 ,	I-Speaker
 who	B-Trajector_event
 recently	I-Speaker
@@ -1519,7 +1588,8 @@ of	B-Individuals
 civilians	I-Individuals
 there	I-Victim
 .	O
-	This	O
+
+This	O
 is	O
 an	B-Figure
 employment	I-Figure
@@ -1532,7 +1602,8 @@ a	I-Ground
 potential	I-Ground
 recruit	I-Ground
 .	O
-	It	B-Medium
+
+It	B-Medium
 contains	O
 a	B-Part
 definition	I-Part
@@ -1563,7 +1634,8 @@ Punishment	O
 ;	O
 6-Pledge	O
 .	O
-	AL	O
+
+AL	O
 QAEDA	O
 :	O
 An	B-Agent
@@ -1575,7 +1647,8 @@ aim	O
 of	B-Goal
 Jihad	I-Goal
 .	O
-	Carrying	O
+
+Carrying	O
 out	O
 Jihad	B-Act
 is	O
@@ -1616,7 +1689,8 @@ duties	B-Duty
 during	B-Time
 conflicts	I-Time
 .	O
-	Its	B-Cognizer
+
+Its	B-Cognizer
 belief	O
 :	O
 The	O
@@ -1643,7 +1717,8 @@ the	I-Type
 worthy	B-Descriptor
 ancestors	B-Alter
 .	O
-	Objectives	O
+
+Objectives	O
 of	B-Agent
 AL	I-Agent
 QAEDA:	I-Agent
@@ -1667,7 +1742,8 @@ Caliphate	O
 God	B-Cognizer
 willing	O
 .	O
-	AL	B-Agent
+
+AL	B-Agent
 QAEDA	I-Agent
 's	I-Agent
 sphere	O
@@ -1684,7 +1760,8 @@ QAEDA	I-Creator
 's	I-Creator
 policy	B-Law
 .	O
-	Requirements	B-Requirement
+
+Requirements	B-Requirement
 of	B-Dependent
 joining	I-Dependent
 AL	B-Group
@@ -1776,7 +1853,8 @@ pledge	O
 of	B-Topic
 AL-QAEDA	I-Topic
 .	O
-	1-	O
+
+1-	O
 Preserving	B-Goal
 the	I-Goal
 unity	I-Goal
@@ -1809,7 +1887,8 @@ Surat	O
 5	O
 )	O
 .	O
-	This	O
+
+This	O
 is	O
 fulfilled	O
 through	O
@@ -1847,7 +1926,8 @@ Koranic	O
 verse	O
 )	O
 .	O
-	2-	O
+
+2-	O
 Preserving	O
 Islamic	O
 morals	O
@@ -1885,7 +1965,8 @@ they	O
 were	O
 infidels	O
 .	O
-	3-	O
+
+3-	O
 Adherence	O
 to	B-Norm
 eating	I-Norm
@@ -1899,7 +1980,8 @@ Koranic	O
 verse	O
 )	O
 .	O
-	4-	O
+
+4-	O
 Maintaining	B-Hypothetical_event
 physical	I-Hypothetical_event
 fitness	I-Hypothetical_event
@@ -1911,7 +1993,8 @@ much	I-Degree
 as	I-Degree
 possible	I-Manner
 .	O
-	5-	O
+
+5-	O
 Do	O
 not	O
 talk	O
@@ -1930,7 +2013,8 @@ are	O
 AL-QAEDA	B-Group
 members	O
 .	O
-	The	B-Interlocutor_2
+
+The	B-Interlocutor_2
 only	I-Interlocutor_2
 person	I-Interlocutor_2
 you	B-Interlocutor_1
@@ -1970,7 +2054,8 @@ of	O
 the	O
 leadership	B-Leader
 .	O
-	6-	O
+
+6-	O
 The	B-Event
 call	I-Event
 to	I-Event
@@ -2026,7 +2111,8 @@ bless	O
 him	B-Member
 )	O
 .	O
-	7-	O
+
+7-	O
 Safeguard	O
 AL-QAEDA	B-Possessor
 's	I-Possessor
@@ -2059,7 +2145,8 @@ without	O
 harboring	O
 deception	O
 .	O
-	1-	O
+
+1-	O
 The	O
 married	O
 have	O
@@ -2087,7 +2174,8 @@ for	I-Hypothetical_event
 four	B-Count
 months	B-Unit
 .	O
-	2-	O
+
+2-	O
 A	B-Entity
 bachelor	I-Entity
 can	O
@@ -2102,7 +2190,8 @@ days	I-Event
 every	I-Event
 month	I-Event
 .	O
-	ALQAEDA	B-Hypothetical_event
+
+ALQAEDA	B-Hypothetical_event
 may	O
 deny	B-Hypothetical_event
 his	B-Speaker
@@ -2113,7 +2202,8 @@ in	I-Hypothetical_event
 certain	B-Instance_Prop
 cases	B-Instance
 .	O
-	3-	O
+
+3-	O
 Request	B-Event
 for	I-Event
 vacation	I-Event
@@ -2131,7 +2221,8 @@ the	B-Landmark_event
 travel	I-Landmark_event
 date	I-Landmark_event
 .	O
-	The	B-Topic
+
+The	B-Topic
 request	I-Topic
 would	O
 only	O
@@ -2154,7 +2245,8 @@ in	O
 special	B-Type
 cases	B-Instance
 .	O
-	1-	O
+
+1-	O
 The	O
 salary	O
 of	O
@@ -2174,7 +2266,8 @@ for	O
 every	O
 newborn	O
 .	O
-	2-	O
+
+2-	O
 Salary	O
 of	O
 the	O
@@ -2205,7 +2298,8 @@ joining	B-Landmark_event
 the	I-Landmark_event
 organization	I-Landmark_event
 .	O
-	He	B-Entity
+
+He	B-Entity
 can	O
 take	B-Event
 a	I-Event
@@ -2213,7 +2307,8 @@ one	B-Count
 month	B-Unit
 vacation	I-Event
 .	O
-	He	B-Entity
+
+He	B-Entity
 does	O
 n't	O
 get	O
@@ -2241,7 +2336,8 @@ perform	I-Purpose
 the	B-Act
 pilgrimage	I-Act
 .	O
-	This	B-Event
+
+This	B-Event
 period	I-Event
 starts	I-Event
 from	B-Initial_subevent
@@ -2251,7 +2347,8 @@ of	I-Landmark_event
 joining	I-Landmark_event
 AL-QAEDA	B-Group
 .	O
-	4-	O
+
+4-	O
 The	B-Event
 married	I-Event
 Mujahed	I-Event
@@ -2277,7 +2374,8 @@ one	B-Count
 month	B-Unit
 vacation	O
 .	O
-	Tickets	B-Entity
+
+Tickets	B-Entity
 can	O
 not	B-Event
 be	I-Event
@@ -2285,7 +2383,8 @@ reimbursed	I-Event
 if	B-Circumstances
 unused	I-Circumstances
 .	O
-	5-	O
+
+5-	O
 The	B-Employee
 brother	I-Employee
 who	B-Employee
@@ -2311,7 +2410,8 @@ previously	B-Time
 mentioned	B-Event
 privileges	B-Message
 .	O
-	And	O
+
+And	O
 accordingly	O
 :	O
 1-	O
@@ -2328,7 +2428,8 @@ Islamic	B-Jurisdiction
 law	B-Law
 provision	I-Speaker
 .	O
-	2-	O
+
+2-	O
 Disputes	B-Phenomenon
 related	I-Phenomenon
 to	I-Phenomenon
@@ -2360,7 +2461,8 @@ the	I-Agent
 conflicting	I-Agent
 parties	B-Aggregate
 .	O
-	He	B-Informer
+
+He	B-Informer
 must	O
 inform	B-Required_situation
 the	B-Authorities
@@ -2370,7 +2472,8 @@ settle	I-Purpose
 the	I-Purpose
 matter	I-Purpose
 .	O
-	3-	O
+
+3-	O
 Personal	B-Phenomenon
 disputes	I-Phenomenon
 between	I-Phenomenon
@@ -2388,7 +2491,8 @@ QAEDA	I-Group
 or	I-Assessor
 outsiders	I-Assessor
 .	O
-	Corrupted	B-Assessor
+
+Corrupted	B-Assessor
 courts	I-Assessor
 should	O
 not	B-Required_situation
@@ -2396,7 +2500,8 @@ judge	I-Required_situation
 the	B-Phenomenon
 matter	I-Phenomenon
 .	O
-	All	B-Quantity
+
+All	B-Quantity
 members	I-Protagonist
 commanders	B-Individuals
 as	I-Protagonist
@@ -2408,7 +2513,8 @@ obey	B-Required_situation
 these	B-Norm
 rules	I-Norm
 .	O
-	Matters	B-Topic
+
+Matters	B-Topic
 subject	I-Topic
 to	O
 pledge	O
@@ -2432,7 +2538,8 @@ first	O
 in	B-Comparison_set
 importance	I-Comparison_set
 .	O
-	A	B-Protagonist
+
+A	B-Protagonist
 legitimate	I-Protagonist
 duty	I-Protagonist
 for	I-Protagonist
@@ -2464,7 +2571,8 @@ to	O
 a	O
 pledge	O
 .	O
-	According	O
+
+According	O
 to	O
 what	B-Message
 has	I-Event
@@ -2499,7 +2607,8 @@ Amir	I-Focal_occasion
 )	I-Focal_occasion
 pledge	I-Focal_occasion
 .	O
-	I	B-Cognizer
+
+I	B-Cognizer
 pledge	O
 by	B-Manner
 God	I-Manner
@@ -2526,7 +2635,8 @@ the	I-Message
 most	I-Message
 supreme	I-Message
 .	O
-	I	B-Speaker
+
+I	B-Speaker
 pledge	O
 to	B-Message
 adhere	I-Message
@@ -2554,7 +2664,8 @@ is	O
 my	O
 witness	O
 .	O
-	In	O
+
+In	O
 the	O
 name	B-Name
 of	B-Entity
@@ -2566,7 +2677,8 @@ Gracious	O
 Most	O
 Merciful	O
 .	O
-	I	B-Speaker
+
+I	B-Speaker
 vow	O
 by	B-Manner
 God	I-Manner
@@ -2595,7 +2707,8 @@ be	I-Message
 most	I-Message
 supreme	I-Message
 .	O
-	I	B-Required_situation
+
+I	B-Required_situation
 have	O
 to	O
 preserve	B-Required_situation
@@ -2612,12 +2725,14 @@ is	O
 my	O
 witness	O
 .	O
-	Seven	B-Number
+
+Seven	B-Number
 :	O
 Breaking	O
 the	O
 pledge	O
-	The	O
+
+The	O
 sin	B-Misdeed
 of	B-Wrongdoer
 the	I-Wrongdoer
@@ -2638,7 +2753,8 @@ Fath	O
 Albari	O
 418/4	O
 )	O
-	Our	O
+
+Our	O
 last	B-Item
 prayer	B-Comparison_set
 is	O
@@ -2651,7 +2767,8 @@ of	I-Addressee
 the	I-Addressee
 universe	I-Addressee
 .	O
-	Paula_Zahn	O
+
+Paula_Zahn	O
 :	O
 Questions	B-Figure
 about	I-Figure
@@ -2683,7 +2800,8 @@ the	B-Ground
 Senate	B-Descriptor
 floor	B-Part
 .	O
-	Democrats	B-Agent
+
+Democrats	B-Agent
 forced	O
 the	B-Theme
 Senate	I-Theme
@@ -2694,7 +2812,8 @@ closed	B-Descriptor
 door	B-Part
 session	I-Goal
 .	O
-	Republican	B-Speaker
+
+Republican	B-Speaker
 leader	I-Speaker
 Bill	I-Speaker
 Frist	I-Speaker
@@ -2704,7 +2823,8 @@ Senate	I-Victim
 was	I-Message
 hijacked	I-Message
 .	O
-	Ed_Henry	O
+
+Ed_Henry	O
 :	O
 A	B-Sender
 Democratic	I-Sender
@@ -2718,7 +2838,8 @@ through	B-Goal
 the	I-Goal
 Senate	I-Goal
 .	O
-	Harry_Reed	O
+
+Harry_Reed	O
 :	O
 Mr.	O
 President	B-Leader
@@ -2728,7 +2849,8 @@ has	O
 gone	O
 by	B-Path
 .	O
-	I	B-Speaker
+
+I	B-Speaker
 demand	O
 on	O
 behalf	O
@@ -2747,7 +2869,8 @@ n't	I-Phenomenon
 being	I-Phenomenon
 conducted	I-Phenomenon
 .	O
-	Ed_Henry	O
+
+Ed_Henry	O
 :	O
 Democratic	B-Communicator
 leader	I-Communicator
@@ -2772,7 +2895,8 @@ war	I-Figure
 in	B-Place
 Iraq	B-Ground
 .	O
-	Harry_Reed	O
+
+Harry_Reed	O
 :	O
 And	O
 in	O
@@ -2790,7 +2914,8 @@ into	B-Final_state
 closed	I-Final_state
 session	I-Final_state
 .	O
-	speaker20	O
+
+speaker20	O
 :	O
 President	B-Leader
 I	O
@@ -2798,7 +2923,8 @@ second	O
 the	O
 motion	O
 .	O
-	Ed_Henry	O
+
+Ed_Henry	O
 :An	O
 easy	O
 but	O
@@ -2808,7 +2934,8 @@ with	O
 extraordinary	O
 consequences	O
 .	O
-	The	O
+
+The	O
 Senate	B-Whole
 chamber	B-Building_part
 was	O
@@ -2831,7 +2958,8 @@ session	B-Phenomenon
 to	O
 debate	O
 .	O
-	Ed_Henry	O
+
+Ed_Henry	O
 :	O
 Republican	B-Experiencer
 leader	I-Experiencer
@@ -2840,7 +2968,8 @@ Frist	I-Experiencer
 was	O
 enraged	O
 .	O
-	Bill_Frist	O
+
+Bill_Frist	O
 :	O
 Not	O
 with	O
@@ -2874,7 +3003,8 @@ this	I-Experiencer
 grand	I-Experiencer
 institution	I-Experiencer
 .	O
-	Bill_Frist	O
+
+Bill_Frist	O
 :	O
 There	B-Event
 has	I-Event
@@ -2893,7 +3023,8 @@ before	B-Time
 a	B-Landmark_event
 stunt	I-Landmark_event
 .	O
-	Ed_Henry	O
+
+Ed_Henry	O
 :	O
 Reed	B-Speaker
 refused	O
@@ -2919,7 +3050,8 @@ administration	I-Topic
 twisted	I-Topic
 intelligence	B-Information
 .	O
-	Harry_Reed	O
+
+Harry_Reed	O
 :	O
 This	B-Activity
 investigation	I-Activity
@@ -2937,7 +3069,8 @@ of	O
 the	O
 way	B-Roadway
 .	O
-	That	O
+
+That	O
 's	O
 the	O
 real	O
@@ -2946,7 +3079,8 @@ in	O
 the	O
 face	B-Body_part
 .	O
-	That	O
+
+That	O
 's	O
 the	O
 slap	O
@@ -2954,7 +3088,8 @@ in	O
 the	O
 face	B-Body_part
 .	O
-	And	O
+
+And	O
 today	B-Time
 the	B-Perceiver_passive
 American	I-Perceiver_passive
@@ -2969,7 +3104,8 @@ bit	I-Phenomenon
 of	I-Phenomenon
 light	I-Phenomenon
 .	O
-	Ed_Henry	O
+
+Ed_Henry	O
 :	O
 What	O
 's	O
@@ -3007,7 +3143,8 @@ the	I-Accused
 Bush	I-Accused
 administration	I-Accused
 .	O
-	Harry_Reed	O
+
+Harry_Reed	O
 :	O
 We	B-Earner
 have	O
@@ -3021,7 +3158,8 @@ best	I-Entity
 and	I-Entity
 bravest	I-Entity
 .	O
-	Over	B-Victim
+
+Over	B-Victim
 fifteen	I-Victim
 thousand	I-Victim
 have	O
@@ -3029,7 +3167,8 @@ been	O
 seriously	B-Degree
 wounded	B-Factor
 .	O
-	We	O
+
+We	O
 are	O
 spending	O
 more	B-Added_set
@@ -3045,7 +3184,8 @@ end	O
 in	O
 sight	O
 .	O
-	And	O
+
+And	O
 this	B-Speaker
 Republican	I-Speaker
 led	I-Speaker
@@ -3063,7 +3203,8 @@ about	B-Topic
 the	I-Topic
 misinformation	I-Topic
 -	O
-	Ed_Henry	O
+
+Ed_Henry	O
 :	O
 Republicans	B-Agent
 insist	O
@@ -3073,7 +3214,8 @@ completing	I-Message
 the	B-Activity
 investigation	I-Activity
 .	O
-	Ed_Henry	O
+
+Ed_Henry	O
 :	O
 Democrats	B-Hypothetical_event
 say	O
@@ -3123,7 +3265,8 @@ much	B-Degree
 nastier	B-Degree
 battle	B-Evaluee
 .	O
-	Paula_Zahn	O
+
+Paula_Zahn	O
 :	O
 So	O
 do	O
@@ -3144,7 +3287,8 @@ might	I-Phenomenon
 look	B-Hypothetical_event
 like	B-Appraisal
 ?	O
-	A	B-Hypothetical_event
+
+A	B-Hypothetical_event
 debate	I-Hypothetical_event
 that	B-Hypothetical_event
 's	O
@@ -3159,7 +3303,8 @@ months	B-Individuals
 to	I-Hypothetical_event
 come	I-Hypothetical_event
 .	O
-	Paula_Zahn	O
+
+Paula_Zahn	O
 :	O
 Turning	O
 our	B-Perceiver
@@ -3175,7 +3320,8 @@ of	I-Figure
 folks	I-Figure
 concerned	I-Figure
 .	O
-	You	B-Hearer
+
+You	B-Hearer
 've	O
 been	O
 hearing	O
@@ -3188,7 +3334,8 @@ or	I-Topic
 bird	B-Name
 flu	B-Name
 .	O
-	The	B-Event
+
+The	B-Event
 most	I-Event
 common	I-Event
 and	I-Event
@@ -3205,7 +3352,8 @@ Asia	I-Part
 to	I-Event
 Europe	I-Event
 .	O
-	Paula_Zahn	O
+
+Paula_Zahn	O
 :	O
 Today	B-Unit
 President	O
@@ -3226,7 +3374,8 @@ possible	I-Activity
 flu	B-Ailment
 pandemic	I-Hypothetical_event
 .	O
-	Paula_Zahn	O
+
+Paula_Zahn	O
 :	O
 Now	O
 much	B-Denoted_quantity
@@ -3250,7 +3399,8 @@ other	B-Added_set
 first	B-Item
 responders	I-Item
 .	O
-	Paula_Zahn	O
+
+Paula_Zahn	O
 :	O
 Speeding	O
 up	O
@@ -3281,7 +3431,8 @@ prevent	I-Goods
 flu	B-Event
 infection	I-Event
 .	O
-	Paula_Zahn	O
+
+Paula_Zahn	O
 :	O
 And	O
 we	B-Trajector_event
@@ -3304,7 +3455,8 @@ from	I-Superior
 South	B-Part
 Asia	I-Part
 .	O
-	Paula_Zahn	O
+
+Paula_Zahn	O
 :	O
 Where	O
 bird	B-Individuals
@@ -3321,7 +3473,8 @@ least	I-Denoted_quantity
 sixty-two	B-Individuals
 people	B-Person
 .	O
-	Paula_Zahn	O
+
+Paula_Zahn	O
 :	O
 About	B-Victim
 half	I-Victim
@@ -3333,7 +3486,8 @@ struck	I-Whole
 with	B-Cause
 it	I-Cause
 .	O
-	Hundreds	B-Victim
+
+Hundreds	B-Victim
 of	I-Victim
 millions	I-Victim
 of	I-Victim
@@ -3351,7 +3505,8 @@ contain	I-Goal
 the	I-Goal
 disease	B-Ailment
 .	O
-	Paula_Zahn	O
+
+Paula_Zahn	O
 :	O
 And	O
 Dr	O
@@ -3369,14 +3524,16 @@ hospital	I-Figure
 in	O
 Atlanta	B-Ground
 .	O
-	Always	O
+
+Always	O
 good	B-Event
 to	B-Evaluee
 see	I-Evaluee
 you	I-Evaluee
 doctor	B-Professional
 .	O
-	Paula_Zahn	O
+
+Paula_Zahn	O
 :	O
 I	B-Cognizer
 know	O
@@ -3396,7 +3553,8 @@ put	I-Ground
 forth	I-Ground
 today	B-Unit
 .	O
-	Does	O
+
+Does	O
 it	O
 go	O
 far	O
@@ -3405,7 +3563,8 @@ in	O
 your	B-Cognizer
 estimation	B-Estimation
 ?	O
-	Dr	O
+
+Dr	O
 _Gupto	O
 :	O
 You	B-Cognizer
@@ -3417,7 +3576,8 @@ of	I-Degree
 interesting	I-Content
 Paula	I-Content
 .	O
-	On	O
+
+On	O
 one	B-Ground
 hand	I-Ground
 it	B-Figure
@@ -3448,14 +3608,16 @@ n't	I-Figure
 exist	I-Figure
 yet	B-Time
 .	O
-	Pandemic	B-Entity
+
+Pandemic	B-Entity
 flu	I-Entity
 does	O
 n't	O
 exist	O
 yet	B-Time
 .	O
-	Dr	O
+
+Dr	O
 _Gupto	O
 :	O
 But	O
@@ -3468,7 +3630,8 @@ talking	O
 about	B-Topic
 it	I-Topic
 .	O
-	And	O
+
+And	O
 I	O
 think	O
 that	B-Opinion
@@ -3498,7 +3661,8 @@ community	I-Ground
 as	I-Opinion
 well	I-Opinion
 .	O
-	Dr	O
+
+Dr	O
 _Gupto	O
 :	O
 On	O
@@ -3576,7 +3740,8 @@ public	B-Function
 health	I-Function
 systems	B-Complex
 .	O
-	Dr	O
+
+Dr	O
 _Gupto	O
 :	O
 The	B-Factor
@@ -3638,7 +3803,8 @@ critically	B-Degree
 ill	O
 patients	B-Patient
 .	O
-	Dr	O
+
+Dr	O
 _Gupto	O
 :	O
 The	O
@@ -3706,7 +3872,8 @@ a	I-Depictive
 pandemic	I-Depictive
 Paula	O
 .	O
-	Paula_Zahn	O
+
+Paula_Zahn	O
 :	O
 Uh	O
 let	B-Interlocutors
@@ -3753,7 +3920,8 @@ Rolenza	I-Mass_theme
 )	I-Mass_theme
 )	I-Mass_theme
 .	O
-	Do	O
+
+Do	O
 we	B-Cognizer
 even	O
 know	O
@@ -3776,7 +3944,8 @@ even	I-Purpose
 presented	I-Purpose
 itself	I-Purpose
 ?	O
-	Dr	O
+
+Dr	O
 _Gupto	O
 :	O
 Here	B-Factor
@@ -3788,14 +3957,16 @@ thing	O
 about	O
 that	O
 .	O
-	We	B-Cognizer
+
+We	B-Cognizer
 do	O
 n't	O
 know	O
 for	B-Degree
 sure	I-Degree
 .	O
-	A	B-Quantity
+
+A	B-Quantity
 lot	I-Quantity
 of	B-Individuals
 people	B-Person
@@ -3817,7 +3988,8 @@ Rolenza	O
 )	O
 )	O
 .	O
-	They	B-Idea
+
+They	B-Idea
 are	O
 antiviral	B-Agent
 drugs	I-Agent
@@ -3841,7 +4013,8 @@ lessen	I-Goal
 its	B-Influencing_entity
 impact	I-Goal
 .	O
-	Dr	O
+
+Dr	O
 _Gupto	O
 :	O
 But	O
@@ -3864,7 +4037,8 @@ uh	I-Explanation
 in	I-Explanation
 particular	I-Explanation
 .	O
-	The	O
+
+The	O
 way	O
 to	B-Purpose
 really	I-Purpose
@@ -3880,7 +4054,8 @@ to	I-Means
 bird	B-Name
 flu	I-Name
 .	O
-	And	O
+
+And	O
 nobody	B-Agent
 will	O
 actually	O
@@ -3892,7 +4067,8 @@ for	B-Explanation
 obvious	I-Explanation
 reasons	B-Phenomenon
 .	O
-	Dr	O
+
+Dr	O
 _Gupto	O
 :	O
 So	O
@@ -3911,7 +4087,8 @@ will	O
 work	O
 Paula	O
 .	O
-	Paula_Zahn	O
+
+Paula_Zahn	O
 :	O
 Dr	O
 .	O
@@ -3922,7 +4099,8 @@ for	B-Reason
 the	I-Reason
 update	I-Reason
 .	O
-	By	O
+
+By	O
 the	O
 way	O
 are	O
@@ -3931,58 +4109,67 @@ catching	O
 a	O
 cold	B-Ailment
 ?	O
-	You	B-Cognizer
+
+You	B-Cognizer
 know	O
 I	B-Content
 just	I-Content
 got	I-Content
 back	I-Content
 .	O
-	And	O
+
+And	O
 the	O
 ninteen	B-Duration
 hour	I-Duration
 plane	B-Vehicle
 ride	I-Process
 .	O
-	Not	O
+
+Not	O
 bird	B-Name
 flu	I-Name
 though	O
 .	O
-	I	B-Speaker
+
+I	B-Speaker
 can	O
 assure	B-Event
 you	B-Addressee
 that	B-Message
 Paula	O
 .	O
-	Paula_Zahn	O
+
+Paula_Zahn	O
 :	O
 Chicken	B-Constituent_parts
 soup	B-Food
 .	O
-	Dr	O
+
+Dr	O
 _Gupto	O
 :	O
 That	B-Information
 's	O
 right	O
 .	O
-	Just	O
+
+Just	O
 what	B-Message
 the	B-Speaker
 doctor	I-Speaker
 ordered	O
 .	O
-	Paula_Zahn	O
+
+Paula_Zahn	O
 :	O
 Works	O
 all	B-Time
 the	I-Time
 time	I-Time
 .	O
-	I	B-Agent
+
+I	B-Agent
 made	O
 a	O
 free	O
@@ -3992,7 +4179,8 @@ for	O
 you	O
 doctor	B-Professional
 .	O
-	Coming	O
+
+Coming	O
 up	O
 on	O
 News	O
@@ -4014,7 +4202,8 @@ one	O
 is	O
 n't	O
 .	O
-	welcome	O
+
+welcome	O
 back	O
 to	O
 ``	O
@@ -4024,7 +4213,8 @@ the	I-Context_of_acquaintance
 news	I-Context_of_acquaintance
 .	O
 ''	O
-	The	B-Phenomenon_1
+
+The	B-Phenomenon_1
 Intifada	I-Phenomenon_1
 ,	I-Phenomenon_1
 the	I-Phenomenon_1
@@ -4045,7 +4235,8 @@ the	I-Outcome
 Muslim	B-Religion
 fundamentalism	I-Outcome
 .	O
-	The	O
+
+The	O
 most	O
 popular	O
 of	O
@@ -4060,7 +4251,8 @@ Islamic	O
 resistance	O
 movement	O
 .	O
-	In	B-Context
+
+In	B-Context
 English	I-Context
 it	B-Form
 means	O
@@ -4074,7 +4266,8 @@ destruction	I-Goal
 of	B-Undergoer
 Israel	I-Undergoer
 .	O
-	At	B-Time
+
+At	B-Time
 the	I-Time
 very	I-Time
 beginning	I-Time
@@ -4105,7 +4298,8 @@ a	I-Content
 secular	I-Content
 movement	I-Content
 .	O
-	Hamas	B-Trajector_event
+
+Hamas	B-Trajector_event
 was	I-Trajector_event
 founded	I-Trajector_event
 in	B-Time
@@ -4141,7 +4335,8 @@ in	O
 the	B-Landmark_period
 1970s	I-Landmark_period
 .	O
-	Slowly	B-Manner
+
+Slowly	B-Manner
 it	B-Entity
 became	O
 more	B-Final_state
@@ -4162,7 +4357,8 @@ an	I-Message
 Islamic	B-Descriptor
 state	B-Locale
 .	O
-	The	O
+
+The	O
 extremism	O
 took	O
 the	O
@@ -4174,7 +4370,8 @@ and	I-Category
 terrorist	B-Assailant
 attacks	I-Category
 .	O
-	But	O
+
+But	O
 Hamas	B-Supplier
 had	O
 already	B-Time
@@ -4206,7 +4403,8 @@ authority	B-Leader
 did	I-Landmark_event
 not	I-Landmark_event
 .	O
-	Hamas	O
+
+Hamas	O
 plays	O
 on	O
 the	O
@@ -4217,7 +4415,8 @@ failure	O
 to	O
 produce	O
 .	O
-	Its	O
+
+Its	O
 basic	O
 message	O
 ,	O
@@ -4237,7 +4436,8 @@ is	O
 not	O
 corrupt	O
 .	O
-	Hamas	O
+
+Hamas	O
 cares	O
 about	O
 the	O
@@ -4250,7 +4450,8 @@ it	O
 does	O
 deliver	O
 .	O
-	Unfortunately	O
+
+Unfortunately	O
 ,	O
 those	O
 same	O
@@ -4276,7 +4477,8 @@ support	O
 terrorist	B-Assailant
 attacks	O
 .	O
-	Israel	B-Agent
+
+Israel	B-Agent
 and	I-Agent
 the	I-Agent
 United	I-Agent
@@ -4304,7 +4506,8 @@ current	I-Goal
 peace	B-Process
 process	I-Trajector_entity
 .	O
-	The	B-Trajector_event
+
+The	B-Trajector_event
 prime	I-Trajector_event
 minister	I-Trajector_event
 known	I-Trajector_event
@@ -4326,7 +4529,8 @@ and	I-Trajector_event
 Israeli	B-Population
 states	B-Locale
 .	O
-	A	O
+
+A	O
 cornerstone	O
 of	O
 the	O
@@ -4334,7 +4538,8 @@ new	O
 peace	B-Goal
 plan	B-Project
 .	O
-	He	B-Agent
+
+He	B-Agent
 's	O
 trying	O
 to	B-Goal
@@ -4346,12 +4551,14 @@ exist	I-Goal
 with	I-Goal
 Israel	I-Goal
 .	O
-	Conservative	B-Cognizer
+
+Conservative	B-Cognizer
 israelis	I-Cognizer
 are	O
 skeptical	O
 .	O
-	He	B-Agent
+
+He	B-Agent
 is	O
 not	O
 working	O
@@ -4364,7 +4571,8 @@ working	O
 in	B-Manner
 tandem	I-Manner
 .	O
-	He	B-Speaker
+
+He	B-Speaker
 is	O
 not	O
 telling	O
@@ -4392,7 +4600,8 @@ put	I-Event
 terror	I-Event
 aside	I-Event
 .	O
-	Reporter	O
+
+Reporter	O
 :	O
 Settlers	B-Experiencer
 call	O
@@ -4410,7 +4619,8 @@ were	O
 not	O
 impressed	O
 .	O
-	Translator	O
+
+Translator	O
 :	O
 The	B-Required_situation
 armed	I-Required_situation
@@ -4451,7 +4661,8 @@ the	B-Created_entity
 Palestinian	B-Population
 state	B-Locale
 .	O
-	Hamas	B-Speaker
+
+Hamas	B-Speaker
 and	I-Speaker
 other	I-Speaker
 Palestinian	I-Speaker
@@ -4477,7 +4688,8 @@ outpost	I-Figure
 in	B-Place
 Gaza	B-Ground
 .	O
-	We	B-Speaker
+
+We	B-Speaker
 are	O
 all	O
 saying	O
@@ -4492,7 +4704,8 @@ summit	I-Figure
 in	I-Circumstances
 Aqaba	B-Ground
 .	O
-	Israel	B-Avenger
+
+Israel	B-Avenger
 retaliated	O
 on	B-Offender
 Hamas	I-Offender
@@ -4507,7 +4720,8 @@ and	O
 killed	O
 civilians	B-Victim
 .	O
-	Translator	O
+
+Translator	O
 :	O
 Hamas	O
 will	O
@@ -4523,7 +4737,8 @@ leaders	I-Victim
 are	O
 assassinated	O
 .	O
-	Reporter	O
+
+Reporter	O
 :	O
 Since	B-Period_of_iterations
 the	I-Period_of_iterations
@@ -4565,7 +4780,8 @@ targeted	I-Part
 for	I-Part
 assassination	I-Part
 .	O
-	If	O
+
+If	O
 you	B-Experiencer
 want	O
 an	B-Event
@@ -4600,7 +4816,8 @@ the	I-Theme
 political	I-Theme
 process	B-Process
 .	O
-	I	B-Cognizer
+
+I	B-Cognizer
 think	O
 that	B-Content
 Hamas	B-Protagonist
@@ -4649,7 +4866,8 @@ he	B-Agent
 will	O
 fail	O
 .	O
-	The	O
+
+The	O
 main	O
 test	O
 of	O
@@ -4678,7 +4896,8 @@ have	O
 a	O
 chance	O
 .	O
-	You	O
+
+You	O
 know	O
 ,	O
 leaders	B-Responsible_party
@@ -4686,7 +4905,8 @@ have	O
 to	O
 do	B-Duty
 things	I-Duty
-	Inauguration	O
+
+Inauguration	O
 of	O
 free	B-Descriptor
 zone	B-Locale
@@ -4694,7 +4914,8 @@ in	B-Container_possessor
 Dubai	I-Container_possessor
 for	B-Descriptor
 e-commerce	I-Descriptor
-	Dubai	O
+
+Dubai	O
 10-28	O
 (	O
 FP	O
@@ -4723,7 +4944,8 @@ Dubai	B-Entity
 Internet	B-Name
 City	I-Name
 .	O
-	The	B-Item
+
+The	B-Item
 preliminary	I-Item
 stages	I-Item
 of	I-Item
@@ -4747,7 +4969,8 @@ at	B-Value
 $200	B-Multiplier
 million	B-Number
 .	O
-	Sheikh	B-Figure
+
+Sheikh	B-Figure
 Mohamed	I-Figure
 ,	I-Figure
 who	I-Figure
@@ -4780,7 +5003,8 @@ trading	B-Use
 center	B-Locale
 .	O
 ''	O
-	The	B-Speaker
+
+The	B-Speaker
 minister	I-Speaker
 ,	I-Speaker
 who	I-Speaker
@@ -4810,7 +5034,8 @@ technology	B-Gizmo
 companies	B-Business
 .	O
 ''	O
-	He	B-Speaker
+
+He	B-Speaker
 said	O
 companies	B-Creator
 engaged	I-Creator
@@ -4839,7 +5064,8 @@ fully-owned	I-Creator
 foreign	I-Creator
 companies	I-Creator
 .	O
-	The	B-Figure
+
+The	B-Figure
 e-commerce	I-Figure
 free	I-Figure
 zone	I-Figure
@@ -4870,7 +5096,8 @@ in	B-Contrast_set
 container	B-Container
 transit	I-Contrast_set
 .	O
-	The	B-Events
+
+The	B-Events
 inauguration	I-Events
 of	I-Events
 Dubai	I-Events
@@ -4904,7 +5131,8 @@ the	O
 Middle	O
 East	O
 .	O
-	The	B-Speaker
+
+The	B-Speaker
 United	I-Speaker
 Nations	I-Speaker
 says	O
@@ -4936,7 +5164,8 @@ than	I-Duration
 two	I-Duration
 months	I-Duration
 .	O
-	Libya	B-Agent
+
+Libya	B-Agent
 has	O
 shown	O
 interest	O
@@ -4958,7 +5187,8 @@ their	I-Purpose
 delivery	B-Use
 systems	B-Gizmo
 .	O
-	Indeed	O
+
+Indeed	O
 ,	O
 it	B-Locale
 is	O
@@ -4981,7 +5211,8 @@ Chad	O
 1987	O
 )	O
 .	O
-	Libya	B-Response
+
+Libya	B-Response
 's	I-Response
 motivation	I-Response
 to	I-Response
@@ -5022,7 +5253,8 @@ and	I-Activity
 African	I-Activity
 politics	I-Activity
 .	O
-	On	B-Time
+
+On	B-Time
 19	I-Time
 December	I-Time
 2003	I-Time
@@ -5057,7 +5289,8 @@ and	I-Event
 UK	I-Event
 authorities	I-Event
 .	O
-	In	O
+
+In	O
 its	B-Speaker
 19	B-Time
 December	I-Time
@@ -5097,7 +5330,8 @@ then	B-Time
 renouncing	I-Phenomenon
 it	B-Content
 .	O
-	Libya	B-Speaker
+
+Libya	B-Speaker
 then	O
 invited	O
 the	B-Inspector
@@ -5113,7 +5347,8 @@ related	I-Unconfirmed_content
 activities	I-Unconfirmed_content
 in-country	I-Unconfirmed_content
 .	O
-	According	O
+
+According	O
 to	O
 International	B-Governed
 Atomic	I-Governed
@@ -5158,7 +5393,8 @@ a	I-Proposition
 nuclear	I-Proposition
 weapon	I-Proposition
 .	O
-	Libya	B-Owner
+
+Libya	B-Owner
 admitted	O
 having	B-Message
 secretly	B-Possession
@@ -5200,7 +5436,8 @@ the	I-Time
 past	I-Time
 decade	I-Time
 .	O
-	IAEA	B-Cognizer
+
+IAEA	B-Cognizer
 inspectors	I-Cognizer
 did	O
 not	O
@@ -5228,7 +5465,8 @@ and	I-Relative_location
 around	I-Relative_location
 Tripoli	B-Ground
 .	O
-	It	O
+
+It	O
 has	O
 been	O
 revealed	O
@@ -5260,7 +5498,8 @@ black	I-Means
 market	I-Means
 network	I-Means
 .	O
-	In	B-Medium
+
+In	B-Medium
 his	I-Medium
 19	I-Medium
 December	I-Medium
@@ -5297,7 +5536,8 @@ on	B-Time
 March	I-Time
 2004	I-Time
 .	O
-	IAEA	B-Communicator
+
+IAEA	B-Communicator
 chief	I-Communicator
 El	I-Communicator
 Baradei	I-Communicator
@@ -5322,7 +5562,8 @@ to	I-Message
 peaceful	B-Landmark
 purposes	I-Landmark
 .	O
-	Previously	B-Direction
+
+Previously	B-Direction
 ,	O
 Libya	B-Event
 signed	I-Event
@@ -5340,7 +5581,8 @@ in	I-Event
 January	I-Event
 2004	I-Event
 .	O
-	In	B-Time
+
+In	B-Time
 1996	I-Time
 ,	O
 it	B-Signatory
@@ -5358,7 +5600,8 @@ zone	I-Created_entity
 in	B-Place
 Africa	I-Place
 .	O
-	Besides	O
+
+Besides	O
 previously	B-Descriptor
 secret	I-Descriptor
 nuclear	B-Use
@@ -5379,7 +5622,8 @@ reactor	B-Locale
 in	B-Container_possessor
 Tajura	I-Container_possessor
 .	O
-	With	O
+
+With	O
 the	O
 lifting	O
 of	B-Process
@@ -5406,7 +5650,8 @@ Taruja	I-Purpose_of_recipient
 nuclear	I-Purpose_of_recipient
 complex	I-Purpose_of_recipient
 .	O
-	In	B-Time
+
+In	B-Time
 2003	I-Time
 ,	O
 Libya	B-Speaker
@@ -5426,7 +5671,8 @@ weapons	I-Goal
 BW	I-Goal
 )	I-Goal
 .	O
-	In	B-Time
+
+In	B-Time
 October	I-Time
 and	I-Time
 December	I-Time
@@ -5459,7 +5705,8 @@ in	I-Descriptor
 BW	I-Descriptor
 research	I-Descriptor
 .	O
-	The	B-Signatory
+
+The	B-Signatory
 country	I-Signatory
 acceded	O
 to	B-Agreement
@@ -5474,7 +5721,8 @@ on	B-Time
 January	I-Time
 1982	I-Time
 .	O
-	There	O
+
+There	O
 are	O
 allegations	B-Entity
 that	B-Message
@@ -5498,7 +5746,8 @@ facilities	I-Contents
 as	I-Message
 well	I-Message
 .	O
-	Prior	B-Direction
+
+Prior	B-Direction
 to	B-Landmark_event
 Libya	I-Landmark_event
 's	I-Landmark_event
@@ -5547,7 +5796,8 @@ for	I-Event
 weapons	I-Event
 use	I-Event
 .	O
-	There	O
+
+There	O
 is	O
 a	B-Entity
 significant	I-Entity
@@ -5589,7 +5839,8 @@ neighbor	I-Purpose
 in	B-Time
 1987	I-Time
 .	O
-	In	B-Medium
+
+In	B-Medium
 documentation	B-Theme
 provided	I-Medium
 to	B-Recipient
@@ -5649,7 +5900,8 @@ CW	I-Item
 production	I-Item
 facility	I-Item
 .	O
-	In	O
+
+In	O
 December	O
 2003	O
 ,	O
@@ -5674,7 +5926,8 @@ Convention	I-Agreement
 without	I-Manner
 delay.	I-Manner
 ''	O
-	Libya	B-Event
+
+Libya	B-Event
 first	I-Event
 acquired	I-Event
 Scud-B	I-Event
@@ -5689,7 +5942,8 @@ the	B-Origin
 Soviet	I-Origin
 Union	I-Origin
 .	I-Context
-	In	O
+
+In	O
 the	O
 early	B-Sub_part
 1980	B-Time_period
@@ -5717,7 +5971,8 @@ of	B-Distance
 950	I-Distance
 km	I-Distance
 .	O
-	Germany	B-Supplier
+
+Germany	B-Supplier
 and	I-Supplier
 China	I-Supplier
 allegedly	O
@@ -5731,7 +5986,8 @@ the	I-Recipient
 al-Fatah	I-Recipient
 program	I-Recipient
 .	O
-	The	B-Activity
+
+The	B-Activity
 al-Fatah	I-Activity
 missile	I-Activity
 system	I-Activity
@@ -5743,7 +5999,8 @@ and	O
 remains	O
 untested	B-Process
 .	O
-	In	B-Time
+
+In	B-Time
 November	B-Landmark_event
 2000	I-Landmark_event
 ,	O
@@ -5776,7 +6033,8 @@ including	I-Item
 launch	B-Part
 capabilities	I-Part
 .	O
-	North	B-Supplier
+
+North	B-Supplier
 Korea	I-Supplier
 also	O
 allegedly	O
@@ -5793,7 +6051,8 @@ Libyan	I-Purpose_of_recipient
 missile	I-Purpose_of_recipient
 program	I-Purpose_of_recipient
 .	O
-	This	B-Part
+
+This	B-Part
 complemented	O
 other	B-Rest
 missile	B-Product
@@ -5805,7 +6064,8 @@ began	B-Reported_fact
 in	I-Reported_fact
 1999	I-Reported_fact
 .	O
-	Also	O
+
+Also	O
 ,	O
 after	O
 the	B-Landmark_event
@@ -5849,7 +6109,8 @@ manufacture	I-Event
 ballistic	B-Type
 missiles	I-Weapon
 .	O
-	In	B-Time
+
+In	B-Time
 2003	I-Time
 ,	O
 US	B-Recipient
@@ -5871,7 +6132,8 @@ missile	B-Use
 research	I-Use
 facilities	B-Locale
 .	O
-	In	O
+
+In	O
 December	O
 2003	O
 ,	O
@@ -5894,7 +6156,8 @@ of	I-Type
 500	I-Type
 kg	I-Type
 .	O
-	Libya	B-Member
+
+Libya	B-Member
 is	O
 not	O
 a	O
@@ -5908,9 +6171,11 @@ Regime	I-Group
 (	I-Group
 MTCR	I-Group
 )	I-Group
-	Nuclear	B-Weapon
+
+Nuclear	B-Weapon
 Overview	O
-	North	B-New_member
+
+North	B-New_member
 Korea	I-New_member
 has	O
 joined	O
@@ -5943,7 +6208,8 @@ of	I-Explanation
 nuclear	I-Explanation
 weapons	I-Explanation
 .	O
-	On	B-Reported_fact
+
+On	B-Reported_fact
 23	I-Reported_fact
 April	I-Reported_fact
 2003	I-Reported_fact
@@ -5983,7 +6249,8 @@ possesses	I-Reported_fact
 nuclear	I-Reported_fact
 weapons	I-Reported_fact
 .	O
-	Li	B-Speaker
+
+Li	B-Speaker
 made	O
 the	O
 statement	O
@@ -6003,7 +6270,8 @@ and	I-Interlocutors
 North	I-Interlocutors
 Korea	I-Interlocutors
 .	O
-	On	B-Time
+
+On	B-Time
 10	I-Time
 February	I-Time
 2005	I-Time
@@ -6026,7 +6294,8 @@ manufactured	I-Message
 nuclear	B-Weapon
 weapons	I-Weapon
 .	O
-	North	B-Tester
+
+North	B-Tester
 Korea	I-Tester
 has	O
 not	O
@@ -6067,7 +6336,8 @@ conducted	I-Phenomenon
 in	I-Phenomenon
 June	I-Phenomenon
 .	O
-	As	O
+
+As	O
 of	O
 May	O
 2005	O
@@ -6085,7 +6355,8 @@ talks	I-Entity
 in	B-Place
 Beijing	I-Place
 .	O
-	The	B-Total
+
+The	B-Total
 six	I-Total
 parties	I-Total
 include	O
@@ -6105,7 +6376,8 @@ the	I-Part
 United	I-Part
 States	I-Part
 .	O
-	The	B-Parties
+
+The	B-Parties
 six	I-Parties
 parties	I-Parties
 have	O
@@ -6135,7 +6407,8 @@ nuclear	I-Goal
 Korean	I-Goal
 peninsula	I-Goal
 .	O
-	However	O
+
+However	O
 ,	O
 in	B-Time
 February	I-Time
@@ -6171,7 +6444,8 @@ North	I-Duration
 Korea	I-Duration
 .	I-Message
 ''	I-Message
-	Many	B-Cognizer
+
+Many	B-Cognizer
 analysts	B-Cognizer
 now	O
 believe	O
@@ -6204,7 +6478,8 @@ UN	I-Message
 Security	I-Message
 Council	I-Message
 .	O
-	On	B-Time
+
+On	B-Time
 12	I-Time
 May	I-Time
 2003	I-Time
@@ -6255,7 +6530,8 @@ a	O
 signatory	O
 ]	O
 .	O
-	Under	O
+
+Under	O
 the	O
 agreement	O
 ,	O
@@ -6281,7 +6557,8 @@ to	I-Message
 enrich	I-Message
 uranium	B-Substance
 .	O
-	Under	O
+
+Under	O
 the	O
 Agreed	O
 Framework	O
@@ -6301,7 +6578,8 @@ the	O
 joint	O
 declaration	O
 .	O
-	On	B-Time
+
+On	B-Time
 10	I-Time
 January	I-Time
 2003	I-Time
@@ -6341,7 +6619,8 @@ the	B-Time
 next	B-Relative_time
 day	I-Time
 .	O
-	The	B-Principle
+
+The	B-Principle
 treaty	I-Principle
 requires	O
 90	B-Count
@@ -6379,11 +6658,13 @@ its	B-Participant
 intention	I-Activity
 withdraw	B-Goal
 ''	I-Reason
-	89	B-Count
+
+89	B-Count
 days	O
 later	O
 .	O
-	The	B-Focal_occasion
+
+The	B-Focal_occasion
 NPT	I-Focal_occasion
 withdrawal	I-Focal_occasion
 swiftly	B-Interval
@@ -6424,7 +6705,8 @@ the	I-Activity
 Agreed	I-Activity
 Framework	I-Activity
 .	O
-	Pyongyang	B-Speaker
+
+Pyongyang	B-Speaker
 said	O
 it	B-Creator
 was	I-Message
@@ -6471,7 +6753,8 @@ matter	I-Time
 of	I-Time
 days	I-Time
 .	O
-	The	B-Cognizer
+
+The	B-Cognizer
 IAEA	I-Cognizer
 's	I-Cognizer
 ability	O
@@ -6508,7 +6791,8 @@ monitoring	I-Theme
 the	B-Ground
 freeze	I-Ground
 .	O
-	The	B-Cognizer
+
+The	B-Cognizer
 Central	I-Cognizer
 Intelligence	I-Cognizer
 Agency	I-Cognizer
@@ -6533,7 +6817,8 @@ between	B-Time
 and	I-Time
 1991	I-Time
 .	O
-	If	O
+
+If	O
 so	O
 ,	O
 it	O
@@ -6567,7 +6852,8 @@ weapons	B-Weapon
 is	O
 unknown	O
 .	O
-	Furthermore	O
+
+Furthermore	O
 ,	O
 a	B-Product
 plutonium	I-Product
@@ -6586,7 +6872,8 @@ it	I-Event
 with	I-Event
 confidence	I-Event
 .	O
-	However	O
+
+However	O
 ,	O
 some	O
 analysts	B-Cognizer
@@ -6626,7 +6913,8 @@ without	O
 government	B-Leader
 approval	O
 .	O
-	In	B-Time
+
+In	B-Time
 the	I-Time
 spring	I-Time
 of	I-Time
@@ -6672,7 +6960,8 @@ temporary	I-Phenomenon
 storage	I-Phenomenon
 pond	I-Phenomenon
 .	O
-	In	B-Time
+
+In	B-Time
 September	I-Time
 2003	I-Time
 ,	O
@@ -6710,7 +6999,8 @@ six	I-Enabled_situation
 nuclear	B-Weapon
 bombs	B-Weapon
 .	O
-	In	B-Time
+
+In	B-Time
 January	I-Time
 2004	I-Time
 ,	O
@@ -6732,7 +7022,8 @@ pond	I-Container
 were	I-Unconfirmed_content
 empty	I-Unconfirmed_content
 .	O
-	There	O
+
+There	O
 are	O
 also	O
 concerns	B-Entity
@@ -6762,7 +7053,8 @@ for	B-Product
 nuclear	I-Product
 weapons	I-Product
 .	O
-	In	B-Time
+
+In	B-Time
 the	I-Time
 summer	I-Time
 of	I-Time
@@ -6789,7 +7081,8 @@ for	I-Phenomenon
 ballistic	I-Phenomenon
 missiles	I-Phenomenon
 .	O
-	In	B-Time
+
+In	B-Time
 October	I-Time
 2002	I-Time
 ,	O
@@ -6832,7 +7125,8 @@ HEU	I-Content
 development	I-Content
 program	I-Content
 .	O
-	Compared	O
+
+Compared	O
 to	O
 plutonium	B-Substance
 -	I-Use
@@ -6873,7 +7167,8 @@ stage	I-Activity
 of	I-Activity
 development	I-Activity
 .	O
-	In	B-Time
+
+In	B-Time
 early	I-Time
 2004	I-Time
 ,	O
@@ -6902,7 +7197,8 @@ Libya	I-Buyer
 and	I-Buyer
 Iran	I-Buyer
 .	O
-	Libya	B-Partner_1
+
+Libya	B-Partner_1
 has	O
 since	O
 abandoned	O
@@ -6929,7 +7225,8 @@ Khan	I-Proposition
 's	I-Proposition
 network	B-Network
 .	O
-	In	B-Time
+
+In	B-Time
 April	I-Time
 2003	I-Time
 ,	O
@@ -6956,7 +7253,8 @@ about	I-Enabled_situation
 200	I-Enabled_situation
 centrifuges	I-Enabled_situation
 .	O
-	In	B-Time
+
+In	B-Time
 the	I-Time
 spring	I-Time
 of	I-Time
@@ -6977,7 +7275,8 @@ three	I-Message
 nuclear	B-Use
 devices	I-Message
 .	O
-	However	O
+
+However	O
 ,	O
 the	O
 report	B-Text
@@ -6992,7 +7291,8 @@ not	O
 been	O
 confirmed	O
 .	O
-	North	B-Entity
+
+North	B-Entity
 Korea	I-Entity
 first	O
 became	B-Experience
@@ -7005,7 +7305,8 @@ the	I-Time
 Korean	I-Time
 War	I-Time
 .	O
-	Although	O
+
+Although	O
 nuclear	B-Weapon
 weapons	I-Weapon
 were	O
@@ -7038,7 +7339,8 @@ the	I-Purpose
 United	I-Purpose
 States	I-Purpose
 .	O
-	In	B-Time
+
+In	B-Time
 1958	I-Time
 ,	O
 the	B-Agent
@@ -7070,7 +7372,8 @@ withdrawal	I-Message
 in	B-Time
 1991	I-Time
 .	O
-	North	B-Event
+
+North	B-Event
 Korean	I-Event
 government	I-Event
 statements	I-Event
@@ -7107,7 +7410,8 @@ in	I-Event
 South	I-Event
 Korea	I-Event
 .	O
-	There	O
+
+There	O
 is	O
 no	O
 reason	O
@@ -7122,7 +7426,8 @@ allegation	B-Message
 is	I-Content
 true	I-Content
 .	O
-	There	O
+
+There	O
 are	O
 different	B-Entity
 schools	B-Entities
@@ -7138,7 +7443,8 @@ nuclear	I-Entity
 weapons	I-Entity
 program	I-Entity
 .	O
-	Those	B-Arguer
+
+Those	B-Arguer
 who	I-Arguer
 believe	I-Arguer
 North	I-Arguer
@@ -7159,7 +7465,8 @@ serious	B-Degree
 external	B-Situation
 threat	I-Content
 .	O
-	This	B-Cognizer
+
+This	B-Cognizer
 school	I-Cognizer
 of	I-Cognizer
 thought	I-Cognizer
@@ -7225,7 +7532,8 @@ the	I-Place
 south	B-Part
 .	O
 ''	O
-	Many	B-Arguer
+
+Many	B-Arguer
 analysts	I-Arguer
 also	O
 argue	O
@@ -7257,7 +7565,8 @@ complete	I-Activity
 nuclear	I-Activity
 weapons	I-Activity
 .	O
-	On	O
+
+On	O
 the	O
 other	O
 hand	O
@@ -7289,7 +7598,8 @@ the	I-State_of_affairs
 international	B-Locale
 community	B-Population
 .	O
-	Proponents	B-Arguer
+
+Proponents	B-Arguer
 of	I-Arguer
 this	I-Arguer
 school	I-Arguer
@@ -7315,7 +7625,8 @@ to	I-Content
 the	I-Content
 DPRK	I-Content
 .	O
-	Evidence	B-Total
+
+Evidence	B-Total
 to	I-Total
 support	I-Total
 this	I-Total
@@ -7402,7 +7713,8 @@ north	B-Part
 and	I-Part
 south	B-Part
 .	O
-	However	O
+
+However	O
 ,	O
 critics	B-Arguer
 argue	O
@@ -7420,7 +7732,8 @@ is	I-Content
 not	I-Content
 credible	I-Content
 .	O
-	Regardless	O
+
+Regardless	O
 of	O
 North	O
 Korean	O
@@ -7465,7 +7778,8 @@ complete	I-Activity
 nuclear	I-Activity
 weapons	I-Activity
 .	O
-	In	B-Time
+
+In	B-Time
 the	I-Time
 early	B-Sub_part
 1950s	B-Time_period
@@ -7488,7 +7802,8 @@ nuclear	I-Activity
 development	I-Activity
 program	I-Activity
 .	O
-	The	B-Created_entity
+
+The	B-Created_entity
 Atomic	I-Created_entity
 Energy	I-Created_entity
 Research	I-Created_entity
@@ -7527,7 +7842,8 @@ the	I-Party_2
 Soviet	I-Party_2
 Union	I-Party_2
 .	O
-	Pyongyang	B-Sender
+
+Pyongyang	B-Sender
 signed	O
 the	B-Agreement
 founding	I-Agreement
@@ -7559,7 +7875,8 @@ training	I-Purpose
 shortly	B-Time
 thereafter	I-Time
 .	O
-	In	B-Time
+
+In	B-Time
 1959	I-Time
 ,	O
 North	B-Signatory
@@ -7604,7 +7921,8 @@ ng	I-Place
 'an	I-Place
 Province	I-Place
 .	O
-	In	B-Time
+
+In	B-Time
 the	I-Time
 early	I-Time
 1960s	I-Time
@@ -7658,7 +7976,8 @@ Research	I-Time
 Center	I-Time
 )	I-Time
 .	O
-	The	B-Instrument
+
+The	B-Instrument
 small	B-Dimension
 research	B-Object
 reactor	I-Object
@@ -7673,7 +7992,8 @@ to	I-Purpose
 train	I-Purpose
 personnel	B-Employee
 .	O
-	The	O
+
+The	O
 cabinet	O
 and	O
 the	O
@@ -7711,7 +8031,8 @@ Kim	B-Leader
 Il	I-Leader
 Sung	I-Leader
 .	O
-	The	B-Phenomenon
+
+The	B-Phenomenon
 program	I-Phenomenon
 appeared	O
 to	B-Characterization
@@ -7743,7 +8064,8 @@ nuclear	I-Effect
 weapons	I-Effect
 program	I-Effect
 .	O
-	Kim	B-Cognizer
+
+Kim	B-Cognizer
 Il	I-Cognizer
 Sung	I-Cognizer
 appreciated	O
@@ -7780,7 +8102,8 @@ in	B-Result
 a	I-Result
 stalemate	I-Result
 .	O
-	In	B-Time
+
+In	B-Time
 1961	I-Time
 ,	O
 Pyongyang	B-Signatory
@@ -7814,7 +8137,8 @@ of	I-Effect
 these	I-Effect
 alliances	I-Effect
 .	O
-	First	O
+
+First	O
 ,	O
 Kim	B-Required_situation
 had	O
@@ -7840,7 +8164,8 @@ of	I-Time
 October	I-Time
 1962	I-Time
 .	O
-	Only	B-Time
+
+Only	B-Time
 two	B-Count
 months	I-Time
 later	I-Time
@@ -7871,7 +8196,8 @@ on	B-Means
 arms	B-Weapon
 imports	I-Means
 .	O
-	Second	O
+
+Second	O
 ,	O
 there	O
 are	O
@@ -7903,7 +8229,8 @@ Chairman	B-Speaker
 Mao	I-Speaker
 refused	I-Message
 .	O
-	Shortly	B-Time
+
+Shortly	B-Time
 thereafter	I-Time
 ,	O
 North	B-Event
@@ -7923,7 +8250,8 @@ China	O
 Cultural	O
 Revolution	O
 .	O
-	In	B-Time
+
+In	B-Time
 the	I-Time
 late	B-Sub_part
 1960s	B-Time_period
@@ -7950,7 +8278,8 @@ and	I-Purpose
 military	I-Purpose
 applications	I-Purpose
 .	O
-	By	B-Time
+
+By	B-Time
 the	I-Time
 early	B-Sub_part
 1970s	B-Time_period
@@ -7982,7 +8311,8 @@ the	I-Activity
 Soviet	I-Activity
 Union	I-Activity
 .	O
-	In	B-Time
+
+In	B-Time
 July	I-Time
 1977	I-Time
 ,	O
@@ -8020,7 +8350,8 @@ under	B-Effect
 IAEA	I-Effect
 safeguards	I-Effect
 .	O
-	The	O
+
+The	O
 Soviets	O
 were	O
 included	O
@@ -8034,7 +8365,8 @@ the	B-Theme
 reactor	I-Theme
 fuel	I-Theme
 .	O
-	The	O
+
+The	O
 early	B-Sub_part
 1980s	B-Time_period
 was	O
@@ -8074,7 +8406,8 @@ and	I-Part
 development	I-Part
 institutions	I-Part
 .	O
-	The	O
+
+The	O
 early	B-Sub_part
 1980s	B-Time_period
 also	O
@@ -8097,7 +8430,8 @@ a	I-Dependent
 nuclear	B-Type
 bomb	B-Weapon
 .	O
-	By	B-Time
+
+By	B-Time
 the	I-Time
 mid	I-Time
 -	I-Time
@@ -8129,7 +8463,8 @@ uranium	I-Item
 processing	I-Item
 facilities	I-Item
 .	O
-	Some	B-Instrument
+
+Some	B-Instrument
 of	I-Instrument
 technology	I-Instrument
 and	I-Instrument
@@ -8157,7 +8492,8 @@ the	I-Time
 late	B-Sub_part
 1990s	B-Time_period
 .	O
-	North	B-Experiencer
+
+North	B-Experiencer
 Korea	I-Experiencer
 's	I-Experiencer
 energy	B-Electricity
@@ -8190,7 +8526,8 @@ mid	B-Sub_part
 -	O
 1980s	B-Time_period
 .	O
-	This	O
+
+This	O
 period	O
 coincided	O
 with	O
@@ -8232,7 +8569,8 @@ in	I-Entity_2
 the	I-Entity_2
 1950s	I-Entity_2
 .	O
-	In	O
+
+In	O
 the	O
 early	B-Sub_part
 1980s	B-Time_period
@@ -8272,7 +8610,8 @@ light	B-Descriptor
 water	I-Descriptor
 reactors	B-Locale
 .	O
-	After	O
+
+After	O
 signing	O
 the	B-Agreement
 NPT	I-Agreement
@@ -8290,7 +8629,8 @@ with	B-Party_2
 the	I-Party_2
 IAEA	I-Party_2
 .	O
-	In	O
+
+In	O
 North	O
 Korea	O
 's	O
@@ -8327,7 +8667,8 @@ complete	I-Theme
 the	I-Theme
 agreement	I-Theme
 .	O
-	Nevertheless	O
+
+Nevertheless	O
 ,	O
 North	B-Agent
 Korea	I-Agent
@@ -8368,7 +8709,8 @@ Team	I-Activity
 Spirit	I-Activity
 .	O
 ''	O
-	In	B-Time
+
+In	B-Time
 September	I-Time
 1991	I-Time
 ,	O
@@ -8409,7 +8751,8 @@ of	I-Message
 nuclear	B-Weapon
 weapons	I-Weapon
 .	O
-	North	B-Signatory
+
+North	B-Signatory
 and	I-Signatory
 South	I-Signatory
 Korea	I-Signatory
@@ -8453,7 +8796,8 @@ nuclear	B-Weapon
 weapons	I-Weapon
 .	O
 ''	O
-	The	B-Principle
+
+The	B-Principle
 agreement	I-Principle
 also	O
 bound	O
@@ -8474,7 +8818,8 @@ enrichment	I-Use
 facilities	B-Locale
 .	O
 ''	O
-	The	B-Supplier
+
+The	B-Supplier
 agreement	I-Supplier
 also	O
 provided	O
@@ -8495,7 +8840,8 @@ on	B-Topic
 its	B-Plan
 implementation	I-Topic
 .	O
-	North	B-Signatory
+
+North	B-Signatory
 Korea	I-Signatory
 finally	B-Time
 signed	O
@@ -8520,7 +8866,8 @@ on	B-Time
 9	I-Time
 April	I-Time
 .	O
-	Under	B-Circumstances
+
+Under	B-Circumstances
 the	I-Circumstances
 terms	I-Circumstances
 of	I-Circumstances
@@ -8558,7 +8905,8 @@ the	I-Purpose_of_recipient
 initial	I-Purpose_of_recipient
 declaration	I-Purpose_of_recipient
 .	O
-	Six	B-Process
+
+Six	B-Process
 rounds	I-Process
 of	I-Process
 inspections	I-Process
@@ -8572,7 +8920,8 @@ in	B-Time
 February	I-Time
 1993	I-Time
 .	O
-	Pyongyang	B-Total
+
+Pyongyang	B-Total
 's	I-Total
 initial	I-Total
 declaration	I-Total
@@ -8617,7 +8966,8 @@ ngbyo	I-Relative_location
 (	I-Relative_location
 n-kun	I-Relative_location
 .	O
-	However	O
+
+However	O
 ,	O
 IAEA	B-Support
 analysis	I-Support
@@ -8637,7 +8987,8 @@ occasions	I-Time
 and	I-Time
 1991	I-Time
 .	O
-	When	O
+
+When	O
 the	B-Speaker
 agency	I-Speaker
 requested	O
@@ -8666,7 +9017,8 @@ off	I-Message
 limits	I-Message
 .	I-Message
 ''	I-Message
-	After	O
+
+After	O
 the	O
 IAEA	O
 was	O
@@ -8715,7 +9067,8 @@ from	I-Goal
 the	I-Goal
 NPT	I-Goal
 .	O
-	Under	O
+
+Under	O
 the	O
 terms	O
 of	B-Agreement
@@ -8733,7 +9086,8 @@ after	I-Time
 giving	I-Time
 notice	I-Time
 .	O
-	However	O
+
+However	O
 ,	O
 following	O
 intense	B-Landmark_occasion
@@ -8767,7 +9121,8 @@ to	I-Focal_occasion
 become	I-Focal_occasion
 effective	I-Focal_occasion
 .	O
-	Pyongyang	B-Party_1
+
+Pyongyang	B-Party_1
 agreed	O
 to	B-Obligation
 ``	I-Obligation
@@ -8796,7 +9151,8 @@ nuclear	B-Weapon
 safeguards	I-Message
 commitments	I-Message
 .	O
-	Under	O
+
+Under	O
 this	O
 ``	O
 special	O
@@ -8831,7 +9187,8 @@ past	B-Unconfirmed_content
 nuclear	B-Weapon
 activities	I-Unconfirmed_content
 .	O
-	As	O
+
+As	O
 talks	B-Event
 with	I-Event
 the	I-Event
@@ -8866,7 +9223,8 @@ ngbyo	I-System
 (	I-System
 n-kun	I-System
 .	O
-	By	O
+
+By	O
 the	O
 spring	O
 of	O
@@ -8889,7 +9247,8 @@ to	O
 be	B-Required_situation
 discharged	I-Required_situation
 .	O
-	On	B-Time
+
+On	B-Time
 14	I-Time
 May	I-Time
 1994	I-Time
@@ -8909,7 +9268,8 @@ of	I-Activity
 IAEA	I-Activity
 inspectors	B-Cognizer
 .	O
-	This	O
+
+This	O
 action	B-Act
 worsened	O
 the	O
@@ -8962,7 +9322,8 @@ reported	I-State_of_affairs
 plutonium	B-Message
 reprocessing	I-Message
 .	O
-	The	B-Speaker
+
+The	B-Speaker
 Clinton	I-Speaker
 administration	I-Speaker
 announced	O
@@ -8996,7 +9357,8 @@ of	I-Category
 war	I-Category
 .	I-Category
 ''	I-Category
-	The	O
+
+The	O
 crisis	O
 was	O
 defused	O
@@ -9018,7 +9380,8 @@ Kim	I-Party_2
 Il	I-Party_2
 Sung	I-Party_2
 .	O
-	Carter	B-Speaker
+
+Carter	B-Speaker
 announced	O
 from	B-Place
 Pyongyang	I-Place
@@ -9046,7 +9409,8 @@ in	I-Proposal
 October	I-Proposal
 1994	I-Proposal
 .	O
-	Under	O
+
+Under	O
 the	O
 agreement	O
 ,	O
@@ -9074,7 +9438,8 @@ monitor	I-Obligation
 that	I-Obligation
 freeze	I-Obligation
 .	O
-	Pyongyang	B-Institution
+
+Pyongyang	B-Institution
 was	O
 also	O
 required	O
@@ -9108,7 +9473,8 @@ to	B-Institution
 the	I-Institution
 NPT	I-Institution
 .	O
-	In	O
+
+In	O
 exchange	O
 ,	O
 the	B-Party_1
@@ -9151,7 +9517,8 @@ date	I-Obligation
 of	I-Obligation
 2003	I-Obligation
 .	O
-	Furthermore	O
+
+Furthermore	O
 ,	O
 the	B-Supplier
 United	I-Supplier
@@ -9175,7 +9542,8 @@ the	I-Situation
 US	I-Situation
 .	I-Theme
 ''	I-Theme
-	While	O
+
+While	O
 the	B-Agent
 Agreed	I-Agent
 Framework	I-Agent
@@ -9204,7 +9572,8 @@ or	I-Content
 its	B-Plan
 implementation	I-Content
 .	O
-	The	B-Experiencer
+
+The	B-Experiencer
 United	I-Experiencer
 States	I-Experiencer
 was	O
@@ -9238,7 +9607,8 @@ water	I-Event
 power	I-Event
 reactors	I-Event
 .	O
-	In	O
+
+In	O
 fact	O
 ,	O
 Pyongyang	B-Speaker
@@ -9270,7 +9640,8 @@ strict	O
 contractual	O
 commitment	O
 .	O
-	After	O
+
+After	O
 coming	O
 to	O
 office	O
@@ -9294,7 +9665,8 @@ in	B-Time
 early	B-Sub_part
 June	B-Time_period
 .	O
-	The	B-Medium
+
+The	B-Medium
 policy	I-Medium
 review	I-Medium
 concluded	O
@@ -9338,7 +9710,8 @@ military	B-Force
 posture	I-State_of_affairs
 .	O
 ''	O
-	From	O
+
+From	O
 Washington	O
 's	O
 perspective	O
@@ -9396,7 +9769,8 @@ critical	B-Descriptor
 reactor	B-Product
 components	B-Material
 .	O
-	In	B-Time
+
+In	B-Time
 October	I-Time
 2002	I-Time
 ,	O
@@ -9428,7 +9802,8 @@ Kelly	I-Theme
 visited	I-Time
 Pyongyang	B-Goal
 .	O
-	During	B-Time
+
+During	B-Time
 the	I-Time
 visit	I-Time
 ,	O
@@ -9470,7 +9845,8 @@ uranium	B-Substance
 HEU	I-Product
 )	I-Product
 .	O
-	The	B-Speaker
+
+The	B-Speaker
 US	I-Speaker
 State	I-Speaker
 Department	I-Speaker
@@ -9528,7 +9904,8 @@ self	B-Victim
 -	I-Whole
 defense	I-Whole
 .	O
-	The	B-Agent
+
+The	B-Agent
 United	I-Agent
 States	I-Agent
 responded	O
@@ -9574,7 +9951,8 @@ on	B-Time
 January	I-Time
 2003	I-Time
 .	O
-	Initially	B-Time
+
+Initially	B-Time
 ,	O
 North	B-Speaker
 Korea	I-Speaker
@@ -9603,7 +9981,8 @@ generate	I-Dependent
 needed	B-Created_entity
 electricity	I-Created_entity
 .	O
-	On	B-Time
+
+On	B-Time
 10	I-Time
 February	I-Time
 2005	I-Time
@@ -9636,7 +10015,8 @@ e	I-Descriptor
 nuclear	B-Use
 reactor	B-Locale
 .	O
-	If	O
+
+If	O
 the	B-Material
 spent	I-Material
 fuel	I-Material
@@ -9666,7 +10046,8 @@ for	B-Enabled_situation
 nuclear	B-Type
 bombs	B-Weapon
 .	O
-	South	B-Agent
+
+South	B-Agent
 Africa	I-Agent
 's	I-Agent
 nuclear	B-Salient_entity
@@ -9707,7 +10088,8 @@ of	O
 technical	B-Domain
 development	O
 .	O
-	Pretoria	B-Surrenderer
+
+Pretoria	B-Surrenderer
 developed	O
 nuclear	B-Weapon
 weapons	I-Weapon
@@ -9723,7 +10105,8 @@ the	I-Time
 early	I-Time
 1990s	I-Time
 .	O
-	The	B-Agent
+
+The	B-Agent
 apartheid	I-Agent
 government	I-Agent
 also	O
@@ -9756,7 +10139,8 @@ of	B-Side
 that	I-Side
 government	I-Side
 .	O
-	While	O
+
+While	O
 the	B-Problem
 proliferation	I-Problem
 legacies	I-Problem
@@ -9797,7 +10181,8 @@ degree	B-Profiled_item
 of	I-Profiled_item
 certainty	I-Profiled_item
 .	O
-	The	B-Agent
+
+The	B-Agent
 post	I-Agent
 -	I-Agent
 apartheid	I-Agent
@@ -9838,7 +10223,8 @@ items	B-Entity
 and	I-Purpose
 technologies	I-Purpose
 .	O
-	South	B-State_of_affairs
+
+South	B-State_of_affairs
 Africa	I-State_of_affairs
 is	I-State_of_affairs
 the	B-Item
@@ -9866,7 +10252,8 @@ nuclear	I-State_of_affairs
 weapons	I-State_of_affairs
 program	B-Entity
 .	O
-	The	B-Support
+
+The	B-Support
 South	I-Support
 African	I-Support
 experience	I-Support
@@ -9893,7 +10280,8 @@ nation	I-Asset
 's	I-Asset
 security	I-Event
 .	O
-	In	B-Time
+
+In	B-Time
 the	I-Time
 1960s	I-Time
 ,	O
@@ -9917,7 +10305,8 @@ and	I-Domain
 engineering	I-Domain
 purposes	I-Purpose
 .	O
-	In	B-Time
+
+In	B-Time
 1973	I-Time
 ,	O
 then	B-Grantor
@@ -9936,7 +10325,8 @@ nuclear	B-Event
 deterrent	I-Event
 capability	I-Project
 .	O
-	Ultimately	B-Time
+
+Ultimately	B-Time
 ,	O
 South	B-Manufacturer
 Africa	I-Manufacturer
@@ -9956,7 +10346,8 @@ type	B-Subtype
 ''	I-Type
 design	I-Type
 .	O
-	In	O
+
+In	O
 parallel	O
 with	O
 decisions	O
@@ -9981,7 +10372,8 @@ associated	I-Entity
 production	B-Use
 equipment	B-Gizmo
 .	O
-	South	B-Signatory
+
+South	B-Signatory
 Africa	I-Signatory
 acceded	O
 to	B-Agreement
@@ -10026,7 +10418,8 @@ its	B-Destroyer
 nuclear	B-Undergoer
 dismantlement	I-Whole
 .	O
-	South	B-New_member
+
+South	B-New_member
 Africa	I-New_member
 joined	O
 the	B-Group
@@ -10042,7 +10435,8 @@ Group	I-Group
 in	B-Place
 1995	I-Place
 .	O
-	South	B-Factor
+
+South	B-Factor
 Africa	I-Factor
 was	O
 instrumental	O
@@ -10097,7 +10491,8 @@ Zealand	I-Part
 and	I-Part
 Sweden	I-Part
 .	O
-	More	B-Time
+
+More	B-Time
 recently	I-Time
 ,	O
 South	B-Focal_occasion
@@ -10138,7 +10533,8 @@ A.Q.	I-Individual2
 Khan	I-Individual2
 network	B-Network
 .	O
-	In	B-Time
+
+In	B-Time
 2004	I-Time
 ,	O
 there	O
@@ -10162,7 +10558,8 @@ nuclear	I-Topic
 power	I-Topic
 generation	I-Topic
 .	O
-	South	B-Agent
+
+South	B-Agent
 Africa	I-Agent
 's	I-Agent
 biological	B-Salient_entity
@@ -10193,7 +10590,8 @@ Project	B-Event
 Jota	I-Event
 )	I-Name
 .	O
-	Personnel	B-Member
+
+Personnel	B-Member
 associated	I-Speaker
 with	B-Group
 Coast	I-Group
@@ -10233,7 +10631,8 @@ a	I-Manner
 scientific	I-Manner
 standpoint	I-Manner
 .	O
-	Although	O
+
+Although	O
 ostensibly	B-Manner
 created	O
 entirely	B-Purpose
@@ -10287,7 +10686,8 @@ features	O
 and	O
 capabilities	O
 .	O
-	The	B-Cognizer
+
+The	B-Cognizer
 apartheid	I-Cognizer
 -	I-Cognizer
 era	I-Cognizer
@@ -10349,7 +10749,8 @@ to	B-Purpose
 defend	I-Purpose
 itself	B-Victim
 .	O
-	It	O
+
+It	O
 was	O
 in	O
 this	B-Cause
@@ -10388,7 +10789,8 @@ SADF	I-Phenomenon
 Special	I-Phenomenon
 Forces	I-Phenomenon
 .	O
-	The	O
+
+The	O
 chief	B-Descriptor
 facility	B-Item
 for	B-Limits_of_consideration
@@ -10434,7 +10836,8 @@ exotic	B-Product
 assassination	B-Use
 devices	B-Gizmo
 .	O
-	Project	B-Creator
+
+Project	B-Creator
 Officer	I-Creator
 Dr	I-Creator
 .	I-Creator
@@ -10454,7 +10857,8 @@ front	B-Front
 companies	B-Business
 overseas	B-Place
 .	O
-	During	B-Duration
+
+During	B-Duration
 its	I-Duration
 existence	I-Duration
 Coast	B-Agent
@@ -10490,7 +10894,8 @@ and	I-Part
 salmonella	I-Part
 bacteria	I-Part
 .	O
-	Some	B-Instrument
+
+Some	B-Instrument
 of	I-Instrument
 these	I-Instrument
 pathogens	I-Instrument
@@ -10531,7 +10936,8 @@ infect	I-Purpose
 larger	B-AggregateProperty
 populations	B-Aggregate
 .	O
-	The	B-Undergoer
+
+The	B-Undergoer
 CBW	I-Undergoer
 program	I-Undergoer
 was	O
@@ -10551,7 +10957,8 @@ of	B-Entity
 the	I-Entity
 regime	B-Leader
 .	O
-	There	O
+
+There	O
 are	O
 indications	B-Indicator
 ,	O
@@ -10628,7 +11035,8 @@ right	I-Phenomenon
 wing	I-Phenomenon
 extremists	I-Phenomenon
 .	O
-	These	B-Unconfirmed_content
+
+These	B-Unconfirmed_content
 claims	I-Unconfirmed_content
 have	O
 yet	O
@@ -10641,7 +11049,8 @@ much	O
 less	O
 verified	O
 .	O
-	The	B-Question
+
+The	B-Question
 extent	I-Question
 to	I-Question
 which	I-Question
@@ -10672,7 +11081,8 @@ an	B-State
 open	B-Descriptor
 question	I-State
 .	O
-	South	B-Agent
+
+South	B-Agent
 Africa	I-Agent
 's	I-Agent
 chemical	B-Weapon
@@ -10703,7 +11113,8 @@ Project	B-Event
 Jota	I-Event
 )	O
 .	O
-	Personnel	B-Member
+
+Personnel	B-Member
 associated	I-Speaker
 with	B-Group
 Coast	I-Group
@@ -10743,7 +11154,8 @@ a	I-Manner
 scientific	I-Manner
 standpoint	I-Manner
 .	O
-	Although	O
+
+Although	O
 ostensibly	B-Manner
 created	O
 entirely	B-Purpose
@@ -10797,7 +11209,8 @@ features	O
 and	O
 capabilities	O
 .	O
-	The	B-Cognizer
+
+The	B-Cognizer
 apartheid	I-Cognizer
 -	I-Cognizer
 era	I-Cognizer
@@ -10861,7 +11274,8 @@ to	B-Purpose
 defend	I-Purpose
 itself	B-Victim
 .	O
-	It	O
+
+It	O
 was	O
 in	O
 this	B-Cause
@@ -10900,7 +11314,8 @@ SADF	I-Phenomenon
 Special	I-Phenomenon
 Forces	I-Phenomenon
 .	O
-	The	O
+
+The	O
 chief	B-Descriptor
 facility	B-Item
 for	B-Use
@@ -10972,7 +11387,8 @@ bombs	B-Weapon
 and	I-Ground
 grenades	B-Weapon
 .	O
-	Project	B-Creator
+
+Project	B-Creator
 Officer	I-Creator
 Dr	I-Creator
 .	I-Creator
@@ -10992,7 +11408,8 @@ front	B-Front
 companies	B-Business
 overseas	B-Place
 .	O
-	During	B-Duration
+
+During	B-Duration
 its	I-Duration
 existence	I-Duration
 Coast	B-Agent
@@ -11038,7 +11455,8 @@ trace	I-Descriptor
 toxic	B-Descriptor
 chemicals	B-Substance
 .	O
-	Several	B-Quantity
+
+Several	B-Quantity
 of	B-Individuals
 these	I-Individuals
 latter	I-Individuals
@@ -11063,7 +11481,8 @@ the	I-Victim
 state	B-Locale
 .	O
 ''	O
-	Certain	B-Researcher
+
+Certain	B-Researcher
 CW	I-Researcher
 facilities	I-Researcher
 also	O
@@ -11125,7 +11544,8 @@ for	B-Result
 a	I-Result
 profit	I-Result
 .	O
-	The	B-Undergoer
+
+The	B-Undergoer
 CBW	I-Undergoer
 program	I-Undergoer
 was	O
@@ -11145,7 +11565,8 @@ of	B-Entity
 the	I-Entity
 regime	B-Leader
 .	O
-	There	O
+
+There	O
 are	O
 indications	O
 ,	O
@@ -11222,7 +11643,8 @@ right	I-Phenomenon
 wing	I-Phenomenon
 extremists	I-Phenomenon
 .	O
-	These	B-Unconfirmed_content
+
+These	B-Unconfirmed_content
 claims	I-Unconfirmed_content
 have	O
 yet	O
@@ -11235,7 +11657,8 @@ much	O
 less	O
 verified	O
 .	O
-	The	B-Question
+
+The	B-Question
 extent	I-Question
 to	I-Question
 which	I-Question
@@ -11266,8 +11689,10 @@ an	B-State
 open	B-Descriptor
 question	I-State
 .	O
-	Missile	B-Weapon
-	It	O
+
+Missile	B-Weapon
+
+It	O
 is	O
 not	O
 clear	O
@@ -11297,7 +11722,8 @@ in	B-Place
 the	I-Place
 country	B-Locale
 .	O
-	It	O
+
+It	O
 appears	O
 that	B-Phenomenon
 Israel	B-Partner_1
@@ -11322,7 +11748,8 @@ relationship	O
 is	O
 unknown	O
 .	O
-	Following	O
+
+Following	O
 a	B-Landmark_occasion
 July	I-Landmark_occasion
 1989	I-Landmark_occasion
@@ -11366,7 +11793,8 @@ Jericho	I-Focal_occasion
 ballistic	I-Focal_occasion
 missile	I-Focal_occasion
 .	O
-	Facing	O
+
+Facing	O
 U.S.	B-Cognizer
 opposition	O
 to	B-Issue
@@ -11399,7 +11827,8 @@ under	O
 international	B-Perceiver_agentive
 observation	O
 .	O
-	South	B-Member
+
+South	B-Member
 Africa	I-Member
 became	O
 a	O
@@ -11416,7 +11845,8 @@ MTCR	I-Member
 in	O
 1995	O
 .	O
-	Disaster	B-Message
+
+Disaster	B-Message
 readiness	I-Message
 fund	I-Message
 urged	O
@@ -11424,7 +11854,8 @@ urged	O
 North	O
 Carolina	O
 ]	O
-	``	O
+
+``	O
 The	B-Responsible_party
 General	I-Responsible_party
 Assembly	I-Responsible_party
@@ -11463,7 +11894,8 @@ panel	O
 recommended	O
 Thursday	B-Unit
 .	O
-	The	B-Event
+
+The	B-Event
 General	I-Event
 Assembly	I-Event
 has	I-Event
@@ -11489,7 +11921,8 @@ ensuing	I-Landmark_event
 anthrax	I-Landmark_event
 scares	I-Landmark_event
 .	O
-	More	B-Added_set
+
+More	B-Added_set
 than	I-Added_set
 half	I-Added_set
 of	I-Added_set
@@ -11530,12 +11963,14 @@ Observer	O
 ,	O
 AP	O
 )	O
-	Homeland	B-Current_country
+
+Homeland	B-Current_country
 security	O
 panel	O
 drops	O
 in	O
-	``	O
+
+``	O
 Rhode	B-Figure
 Island	I-Figure
 is	I-Figure
@@ -11577,7 +12012,8 @@ community	B-Aggregate
 evacuation	I-Goal
 plans	I-Created_entity
 .	O
-	But	O
+
+But	O
 ,	O
 Gov	B-Speaker
 .	I-Speaker
@@ -11636,7 +12072,8 @@ year	I-Event
 to	I-Event
 year	I-Event
 .	O
-	Part	B-Focal_occasion
+
+Part	B-Focal_occasion
 of	I-Focal_occasion
 the	I-Focal_occasion
 answer	I-Focal_occasion
@@ -11664,7 +12101,8 @@ after	B-Time
 the	B-Landmark_occasion
 hearing	I-Landmark_occasion
 .	O
-	The	B-Agent
+
+The	B-Agent
 state	I-Agent
 and	I-Agent
 localities	I-Agent
@@ -11734,7 +12172,8 @@ Baron	O
 (	O
 Link	O
 )	O
-	Mock	O
+
+Mock	O
 drill	B-Occasion
 readies	O
 Dublin	O
@@ -11745,7 +12184,8 @@ district	O
 for	O
 terrorist	B-Situation
 threat	O
-	``	O
+
+``	O
 More	B-Participants
 than	I-Participants
 300	I-Participants
@@ -11766,7 +12206,8 @@ an	I-Purpose
 anthrax	I-Purpose
 attack	I-Purpose
 .	O
-	The	B-Message
+
+The	B-Message
 attack	I-Message
 ,	I-Message
 medical	I-Message
@@ -11804,7 +12245,8 @@ Central	I-Speaker
 Health	I-Speaker
 District	I-Speaker
 .	O
-	The	O
+
+The	O
 attackers	O
 were	O
 environmental	B-Assailant
@@ -11818,7 +12260,8 @@ coming	I-Topic
 to	B-Goal
 town	I-Goal
 .	O
-	The	O
+
+The	O
 essence	O
 of	O
 the	O
@@ -11842,7 +12285,8 @@ to	B-Recipient
 the	I-Recipient
 public	I-Recipient
 .	O
-	'	B-Message
+
+'	B-Message
 I	I-Message
 think	I-Message
 ,	I-Message
@@ -11866,7 +12310,8 @@ Central	I-Governed
 Health	I-Governed
 District	I-Governed
 .	O
-	'	O
+
+'	O
 There	O
 was	O
 excellent	B-Degree
@@ -11874,7 +12319,8 @@ participation	B-Evaluee
 and	I-Evaluee
 cooperation	I-Evaluee
 .	O
-	'	O
+
+'	O
 Though	O
 about	B-Participants
 350	I-Participants
@@ -11904,7 +12350,8 @@ symptoms	I-Cause
 each	I-Cause
 time	I-Cause
 .	O
-	Jennifer	B-Performer
+
+Jennifer	B-Performer
 McLeod	I-Performer
 ,	I-Performer
 a	I-Performer
@@ -11923,7 +12370,8 @@ in	B-Performance
 the	I-Performance
 drill	B-Occasion
 .	O
-	Having	O
+
+Having	O
 worked	O
 as	B-Position
 a	I-Position
@@ -11939,7 +12387,8 @@ a	B-Quantity
 few	I-Quantity
 curves	B-Individuals
 .	O
-	She	B-Speaker
+
+She	B-Speaker
 told	O
 them	B-Addressee
 she	B-Message
@@ -11954,7 +12403,8 @@ and	I-Message
 was	I-Message
 hemorrhaging	I-Message
 .	O
-	She	B-Cognizer
+
+She	B-Cognizer
 thought	O
 the	B-Opinion
 workers	B-Employer
@@ -11974,7 +12424,8 @@ Crenshaw	O
 (	O
 Link	O
 )	O
-	Reduction	B-Cause
+
+Reduction	B-Cause
 in	I-Cause
 beds	I-Cause
 puts	O
@@ -11987,7 +12438,8 @@ risk	I-Effect
 :	O
 hospital	B-Governed
 official	B-Leader
-	``	O
+
+``	O
 Sydney	O
 Hospital	B-Building
 's	O
@@ -12037,7 +12489,8 @@ administrator	O
 has	O
 warned	O
 .	O
-	The	B-Speaker
+
+The	B-Speaker
 chairman	I-Speaker
 of	I-Speaker
 the	I-Speaker
@@ -12082,7 +12535,8 @@ security	I-Message
 hospital	I-Message
 '	I-Message
 .	O
-	The	B-Cognizer
+
+The	B-Cognizer
 biosecurity	I-Cognizer
 workshop	I-Cognizer
 ,	O
@@ -12118,7 +12572,8 @@ Snow	O
 (	O
 Link	O
 )	O
-	[	B-Agent
+
+[	B-Agent
 Mississippi	I-Agent
 ]	I-Agent
 National	I-Agent
@@ -12132,7 +12587,8 @@ and	I-Activity
 Chemical	B-Instrument
 Terrorism	B-Act
 ]	O
-	``	O
+
+``	O
 A	B-Cause
 deadly	I-Cause
 -	I-Cause
@@ -12150,7 +12606,8 @@ action	I-Effect
 Wednesday	I-Effect
 morning	I-Effect
 .	O
-	It	O
+
+It	O
 was	O
 an	O
 anti	B-Tested_property
@@ -12166,7 +12623,8 @@ upcoming	I-Purpose
 Hurricane	I-Purpose
 season	I-Purpose
 .	O
-	The	O
+
+The	O
 test	O
 is	O
 what	B-Tested_property
@@ -12187,7 +12645,8 @@ room	I-Tested_property
 infecting	I-Tested_property
 dozens	I-Tested_property
 .	O
-	Soldiers	B-Event
+
+Soldiers	B-Event
 wore	O
 chemical	B-Use
 suits	B-Garment
@@ -12212,7 +12671,8 @@ Flynn	O
 (	O
 Link	O
 )	O
-	Toxic	B-Figure
+
+Toxic	B-Figure
 gas	I-Figure
 mishap	I-Figure
 at	B-Place
@@ -12222,7 +12682,8 @@ Aberdeen	I-Place
 Proving	I-Place
 Ground	I-Place
 ]	I-Place
-	``	O
+
+``	O
 Four	B-Number
 Aberdeen	I-Focal_occasion
 Proving	I-Focal_occasion
@@ -12269,7 +12730,8 @@ in	I-Ground
 Harford	B-Name
 County	B-Locale
 .	O
-	None	B-Victim
+
+None	B-Victim
 of	I-Victim
 the	I-Victim
 workers	B-Employee
@@ -12307,7 +12769,8 @@ and	I-Ground
 biological	B-Assailant
 defense	I-Ground
 .	O
-	The	B-Speaker
+
+The	B-Speaker
 center	I-Speaker
 's	I-Speaker
 director	I-Speaker
@@ -12319,7 +12782,8 @@ of	I-Message
 safety	B-Purpose
 procedures	I-Message
 .	O
-	Yesterday	B-Time
+
+Yesterday	B-Time
 's	I-Time
 incident	B-Undesirable_Event
 involved	O
@@ -12357,7 +12821,8 @@ Fenton	O
 (	O
 Link	O
 )	O
-	United	B-Helper
+
+United	B-Helper
 States	I-Helper
 Helps	O
 Uzbekistan	B-Protection
@@ -12377,7 +12842,8 @@ transfer	I-Phenomenon
 back	B-Recipient
 to	I-Recipient
 Russia	I-Recipient
-	``	O
+
+``	O
 Four	B-Number
 secret	B-Entity
 transfers	I-Entity
@@ -12419,7 +12885,8 @@ Administration	I-Agent
 NNSA	I-Agent
 )	I-Agent
 .	O
-	'	B-Message
+
+'	B-Message
 These	I-Message
 shipments	I-Message
 of	I-Message
@@ -12463,7 +12930,8 @@ April	I-Medium
 press	I-Medium
 release	I-Medium
 .	O
-	The	B-Part
+
+The	B-Part
 transfer	I-Part
 -	O
 part	O
@@ -12533,13 +13001,15 @@ Blaze	O
 (	O
 Link	O
 )	O
-	New	B-Age
+
+New	B-Age
 Stryker	B-Entity
 model	I-Entity
 tooled	O
 for	O
 detection	O
-	``	O
+
+``	O
 Soldiers	B-Person
 have	O
 welcomed	O
@@ -12553,7 +13023,8 @@ family	B-Alter
 of	B-Relatives
 vehicles	I-Relatives
 .	O
-	The	B-Figure
+
+The	B-Figure
 2nd	I-Figure
 Cavalry	I-Figure
 Regiment	I-Figure
@@ -12582,7 +13053,8 @@ soldiers	I-Figure
 safe	I-Figure
 inside	B-Place
 .	O
-	Stryker	B-Vehicle
+
+Stryker	B-Vehicle
 vehicles	B-Vehicle
 share	O
 the	B-Current_instance
@@ -12599,7 +13071,8 @@ fulfill	I-Added_set
 different	I-Added_set
 missions	B-Set_of_instances
 .	O
-	The	O
+
+The	O
 nuclear	B-Weapon
 ,	I-Use
 biological	B-Weapon
@@ -12612,7 +13085,8 @@ the	O
 ninth	O
 variant	B-Entity_1
 .	O
-	The	B-Act
+
+The	B-Act
 eight	I-Act
 -	I-Act
 wheeled	I-Act
@@ -12644,7 +13118,8 @@ future	I-Final_category
 fighting	B-Goal
 force	B-Force
 .	O
-	'	B-Message
+
+'	B-Message
 There	I-Message
 's	I-Message
 a	B-Quantity
@@ -12693,7 +13168,8 @@ Hill	O
 (	O
 Link	O
 )	O
-	India	B-Agent
+
+India	B-Agent
 and	I-Agent
 US	I-Agent
 to	O
@@ -12703,7 +13179,8 @@ to	B-Undertaking
 deal	I-Undertaking
 with	B-Problem
 terrorism	B-Act
-	``	O
+
+``	O
 India	B-Partners
 and	I-Partners
 the	I-Partners
@@ -12731,7 +13208,8 @@ deal	I-Event
 with	B-Problem
 terrorism	B-Act
 .	O
-	This	B-Decision
+
+This	B-Decision
 was	O
 decided	O
 at	B-Time
@@ -12755,7 +13233,8 @@ which	B-Process
 ended	I-Time
 today	B-Unit
 .	O
-	The	B-Message
+
+The	B-Message
 two	B-Number
 countries	B-Entity
 decided	I-Message
@@ -12802,7 +13281,8 @@ of	I-Medium
 India	I-Medium
 said	O
 .	O
-	The	B-Governed
+
+The	B-Governed
 U.S.	I-Governed
 delegation	I-Governed
 was	O
@@ -12831,7 +13311,8 @@ PTI	O
 http://www.outlookindia.com/pti_print.asp	O
 ?	O
 id=379468	O
-	New	B-Depictive
+
+New	B-Depictive
 evidence	B-Entity
 that	B-Proposition
 Canadian	B-Dangerous_entity
@@ -12840,7 +13321,8 @@ is	I-Proposition
 a	I-Proposition
 security	B-Asset
 threat	I-Proposition
-	``	O
+
+``	O
 Every	B-Frequency
 day	I-Frequency
 ,	O
@@ -12861,7 +13343,8 @@ in	I-Purpose
 our	I-Purpose
 landfills	I-Purpose
 .	O
-	The	B-Owner
+
+The	B-Owner
 U.S.	I-Owner
 Bureau	I-Owner
 of	I-Owner
@@ -12896,7 +13379,8 @@ gap	O
 are	O
 immense	O
 .	O
-	The	B-Cognizer
+
+The	B-Cognizer
 Department	I-Cognizer
 of	I-Cognizer
 Homeland	I-Cognizer
@@ -12940,7 +13424,8 @@ these	B-Action
 trucks	B-Vehicle
 pose	I-Medium
 .	O
-	The	O
+
+The	O
 DHS	B-Author
 report	B-Text
 describes	O
@@ -12988,7 +13473,8 @@ and	O
 physical	B-Manner
 inspections	O
 .	O
-	The	O
+
+The	O
 screening	O
 methods	O
 are	O
@@ -13013,7 +13499,8 @@ of	O
 trash	B-Theme
 shipments	O
 .	O
-	The	B-Created_entity
+
+The	B-Created_entity
 X-ray	I-Created_entity
 image	I-Created_entity
 produced	O
@@ -13054,7 +13541,8 @@ other	B-Added_set
 illegal	B-Descriptor
 material	B-Substance
 .	O
-	Ignoring	O
+
+Ignoring	O
 the	O
 possibility	O
 that	B-Hypothetical_event
@@ -13074,7 +13562,8 @@ weapons	I-Event
 is	I-Event
 irresponsible	O
 .	O
-	It	O
+
+It	O
 is	O
 now	B-Time
 unequivocally	O
@@ -13107,14 +13596,16 @@ Michigan	O
 (	O
 Link	O
 )	O
-	Ground	B-Figure
+
+Ground	B-Figure
 to	I-Figure
 be	I-Figure
 Broken	I-Figure
 at	B-Place
 Biodefense	B-Use
 Center	B-Locale
-	The	B-Figure
+
+The	B-Figure
 U.S.	I-Figure
 Department	I-Figure
 of	I-Figure
@@ -13135,7 +13626,8 @@ and	I-Name
 Countermeasures	I-Name
 Center	I-Name
 .	O
-	The	B-Evaluee
+
+The	B-Evaluee
 center	I-Evaluee
 ,	O
 which	B-Evaluee
@@ -13162,7 +13654,8 @@ strictly	B-Degree
 on	B-Consideration
 biodefense	I-Consideration
 .	O
-	The	B-Cognizer
+
+The	B-Cognizer
 laboratory	I-Cognizer
 's	O
 mission	O
@@ -13184,7 +13677,8 @@ future	I-Phenomenon
 biological	B-Dangerous_entity
 threats	I-Trajector_entity
 .	O
-	The	B-Agent
+
+The	B-Agent
 facility	I-Agent
 also	O
 will	O
@@ -13209,7 +13703,8 @@ and	I-Ground
 biological	B-Instrument
 crimes	B-Crime
 .	O
-	The	B-Part
+
+The	B-Part
 $128	I-Part
 -	I-Part
 million	I-Part
@@ -13227,7 +13722,8 @@ Interagency	I-Whole
 Biodefense	I-Whole
 Campus	I-Whole
 .	O
-	It	B-Trajector_event
+
+It	B-Trajector_event
 is	I-Trajector_event
 scheduled	I-Trajector_event
 to	I-Trajector_event
@@ -13244,13 +13740,15 @@ WTOP	O
 (	O
 Link	O
 )	O
-	Making	O
+
+Making	O
 ,	O
 fighting	O
 diseases	B-Ailment
 of	I-Created_entity
 terror	I-Created_entity
-	Biologists	B-Hypothetical_event
+
+Biologists	B-Hypothetical_event
 at	I-Hypothetical_event
 Fort	I-Hypothetical_event
 Detrick	I-Hypothetical_event
@@ -13278,7 +13776,8 @@ they	I-Degree
 already	I-Degree
 are	I-Degree
 .	O
-	One	B-Proposition
+
+One	B-Proposition
 of	I-Proposition
 the	B-Agent
 biologists	I-Agent
@@ -13315,7 +13814,8 @@ to	I-Project
 combat	I-Project
 them	I-Project
 .	O
-	But	O
+
+But	O
 some	B-Denoted_quantity
 arms	B-State_of_affairs
 control	I-Individuals
@@ -13365,7 +13865,8 @@ unleash	I-Proposition
 similar	I-Proposition
 bugs	I-Proposition
 .	O
-	The	B-Entity
+
+The	B-Entity
 result	I-Entity
 ,	O
 they	B-Speaker
@@ -13397,7 +13898,8 @@ Birch	O
 (	O
 Link	O
 )	O
-	US	O
+
+US	O
 FDA	O
 [	O
 United	O
@@ -13416,7 +13918,8 @@ Elusys	O
 '	O
 anthrax	O
 drug	O
-	Elusys	B-Speaker
+
+Elusys	B-Speaker
 Therapeutics	I-Speaker
 Inc.	I-Speaker
 ,	I-Speaker
@@ -13456,7 +13959,8 @@ company	I-Entity
 anthrax	B-Affliction
 therapeutic	B-Medication
 .	O
-	The	B-Medium
+
+The	B-Medium
 FDA	I-Medium
 's	I-Medium
 US	I-Medium
@@ -13485,7 +13989,8 @@ diseases	B-Ailment
 and	I-Affliction
 disorders	I-Affliction
 .	O
-	Orphan	B-Name
+
+Orphan	B-Name
 Drug	I-Name
 designation	O
 is	O
@@ -13513,7 +14018,8 @@ than	I-Domain
 200,000	I-Domain
 Americans	I-Domain
 .	O
-	This	B-Supplier
+
+This	B-Supplier
 designation	I-Supplier
 provides	O
 companies	B-Business
@@ -13549,7 +14055,8 @@ FDA	I-Concept_2
 user	I-Concept_2
 fee	I-Concept_2
 .	O
-	Anthim	O
+
+Anthim	O
 is	O
 a	O
 high	B-Value
@@ -13576,7 +14083,8 @@ form	I-Event
 deadly	B-Created_entity
 toxins	B-Toxic_substance
 .	O
-	In	B-Domain_of_Relevance
+
+In	B-Domain_of_Relevance
 animal	I-Domain_of_Relevance
 efficacy	I-Domain_of_Relevance
 studies	I-Domain_of_Relevance
@@ -13618,7 +14126,8 @@ Pharmabiz.com	O
 (	O
 Link	O
 )	O
-	ANCDF	B-Recipient
+
+ANCDF	B-Recipient
 [	I-Recipient
 Anniston	I-Recipient
 Chemical	I-Recipient
@@ -13636,7 +14145,8 @@ of	I-Item
 the	I-Item
 Year	B-Unit
 Award	I-Item
-	Westinghouse	B-Recipient
+
+Westinghouse	B-Recipient
 Anniston	I-Recipient
 and	I-Recipient
 the	I-Recipient
@@ -13666,7 +14176,8 @@ International	B-Current_country
 this	B-Time
 week	B-Unit
 .	O
-	``	O
+
+``	O
 Our	B-Situation
 employees	I-Situation
 and	I-Situation
@@ -13698,7 +14209,8 @@ Manager	I-Speaker
 Bob	B-Person
 Love	I-Person
 .	O
-	``	O
+
+``	O
 Awards	O
 like	O
 this	O
@@ -13724,7 +14236,8 @@ and	I-Event_dscription
 the	I-Event_dscription
 community	I-Event_dscription
 .	O
-	I	O
+
+I	O
 'm	O
 proud	O
 of	O
@@ -13746,14 +14259,16 @@ Chemical	B-Domain
 Activity	B-Act
 stores	I-Situation
 .	O
-	The	B-State_of_affairs
+
+The	B-State_of_affairs
 employees	I-State_of_affairs
 deserve	O
 the	B-Action
 recognition	I-Action
 .	O
 ''	O
-	Westinghouse	B-Topical_entity
+
+Westinghouse	B-Topical_entity
 Anniston	I-Topical_entity
 ,	I-Topical_entity
 its	I-Topical_entity
@@ -13796,7 +14311,8 @@ end	B-Sub_part
 of	B-Time_period
 May	B-Unit
 .	O
-	This	B-Proposition
+
+This	B-Proposition
 makes	I-Proposition
 working	B-Figure
 at	B-Place_of_employment
@@ -13843,14 +14359,16 @@ International	O
 (	O
 Link	O
 )	O
-	Portable	B-Project
+
+Portable	B-Project
 kit	B-Theme
 developed	O
 to	B-Purpose
 screen	I-Purpose
 nerve	B-Type
 agent	B-Substance
-	A	B-Trajector_event
+
+A	B-Trajector_event
 portable	I-Trajector_event
 kit	I-Trajector_event
 designed	I-Trajector_event
@@ -13886,7 +14404,8 @@ said	I-Trajector_event
 on	B-Time
 Saturday	B-Unit
 .	O
-	DSO	B-Name
+
+DSO	B-Name
 National	I-Name
 Laboratories	I-Name
 ,	I-Participant_1
@@ -13926,7 +14445,8 @@ to	I-Variable
 anthrax	I-Variable
 spores	I-Variable
 .	O
-	DSO	B-Instrument
+
+DSO	B-Instrument
 's	I-Instrument
 test	I-Instrument
 kit	I-Instrument
@@ -13949,7 +14469,8 @@ blood	I-Ground
 Loke	B-Speaker
 explained	O
 .	O
-	Other	B-Added_set
+
+Other	B-Added_set
 portable	I-Added_set
 kits	B-Theme
 measure	O
@@ -13981,7 +14502,8 @@ Africa	O
 (	O
 Link	O
 )	O
-	Cyanide	B-Artifact
+
+Cyanide	B-Artifact
 Gas	I-Artifact
 Device	I-Artifact
 ``	O
@@ -13990,7 +14512,8 @@ Did	B-Hypothetical_event
 n't	I-Hypothetical_event
 Work	I-Hypothetical_event
 ''	O
-	The	B-Message
+
+The	B-Message
 device	I-Message
 reportedly	I-Message
 developed	I-Message
@@ -14027,7 +14550,8 @@ effective	I-Message
 say	O
 experts	B-Speaker
 .	O
-	``	B-Message
+
+``	B-Message
 What	I-Message
 you	I-Message
 would	I-Message
@@ -14066,7 +14590,8 @@ United	B-Addressee
 Press	I-Addressee
 International	B-Current_country
 .	O
-	Leitenberg	B-Speaker
+
+Leitenberg	B-Speaker
 ,	I-Speaker
 who	I-Speaker
 has	I-Speaker
@@ -14125,7 +14650,8 @@ of	I-Entity
 assumptions	I-Entity
 .	I-Message
 ''	I-Message
-	The	B-Event
+
+The	B-Event
 device	I-Event
 ,	I-Event
 called	I-Event
@@ -14166,7 +14692,8 @@ magazine	B-Text
 last	I-Landmark_event
 week	B-Focal_occasion
 .	O
-	The	B-Medium
+
+The	B-Medium
 book	I-Medium
 ,	I-Medium
 The	I-Medium
@@ -14248,7 +14775,8 @@ Waterman	O
 (	O
 Link	O
 )	O
-	Bush	O
+
+Bush	O
 accords	O
 top	O
 priority	O
@@ -14256,7 +14784,8 @@ to	O
 India	O
 nuclear	B-Topic
 deal	B-Obligation
-	The	B-Recipient
+
+The	B-Recipient
 Bush	I-Recipient
 administration	I-Recipient
 has	O
@@ -14300,7 +14829,8 @@ in	I-Ground
 the	I-Ground
 legislature	B-Leader
 .	O
-	Republican	B-Speaker
+
+Republican	B-Speaker
 Senator	I-Speaker
 John	I-Speaker
 Cornyn	I-Speaker
@@ -14348,7 +14878,8 @@ not	I-Message
 stop	I-Message
 it	B-Action
 .	O
-	The	B-Message
+
+The	B-Message
 deal	I-Message
 is	I-Message
 in	I-Message
@@ -14384,7 +14915,8 @@ relationship	I-Message
 he	B-Speaker
 said	O
 .	O
-	For	O
+
+For	O
 it	B-Preventing_cause
 will	O
 permit	O
@@ -14427,7 +14959,8 @@ or	I-Trajector_event
 its	I-Trajector_event
 allies	I-Trajector_event
 .	O
-	Nowhere	B-Message
+
+Nowhere	B-Message
 is	I-Message
 the	B-Figure
 threat	I-Figure
@@ -14504,14 +15037,16 @@ Service	O
 (	O
 Link	O
 )	O
-	Putin	B-Submittor
+
+Putin	B-Submittor
 submits	O
 nuclear	B-Topic
 terrorism	I-Topic
 convention	B-Obligation
 for	B-Purpose_of_theme
 ratification	I-Purpose_of_theme
-	President	O
+
+President	O
 Vladimir	B-Leader
 Putin	I-Leader
 Monday	B-Unit
@@ -14540,7 +15075,8 @@ Russia	I-Ratifier
 's	I-Ratifier
 parliament	I-Ratifier
 .	O
-	Putin	B-Trajector_event
+
+Putin	B-Trajector_event
 signed	I-Trajector_event
 the	I-Trajector_event
 International	I-Trajector_event
@@ -14561,7 +15097,8 @@ September	B-Unit
 14,	I-Landmark_period
 2005	I-Landmark_period
 .	O
-	The	B-Trajector_event
+
+The	B-Trajector_event
 convention	I-Trajector_event
 was	I-Trajector_event
 adopted	I-Trajector_event
@@ -14579,7 +15116,8 @@ Russia	I-Circumstances
 's	I-Circumstances
 initiative	I-Circumstances
 .	O
-	The	B-Medium
+
+The	B-Medium
 document	I-Medium
 ``	O
 defines	O
@@ -14652,9 +15190,11 @@ Novosti	O
 http://en.rian.ru/	O
 russia	O
 /20060626/50069639.html	O
-	Project	B-Name
+
+Project	B-Name
 Pacific	I-Name
-	A	B-Concept_1
+
+A	B-Concept_1
 Humboldt	I-Concept_1
 veteran	I-Concept_1
 's	I-Concept_1
@@ -14701,7 +15241,8 @@ beaches	I-Support
 would	O
 reveal	O
 .	O
-	In	B-Time
+
+In	B-Time
 the	B-Landmark_period
 1960s	I-Landmark_period
 ,	O
@@ -14739,7 +15280,8 @@ in	I-Goal
 the	B-Ground
 region	I-Ground
 .	O
-	The	B-Member
+
+The	B-Member
 boats	I-Member
 were	O
 part	O
@@ -14760,7 +15302,8 @@ and	I-Product
 chemical	B-Weapon
 weapons	I-Weapon
 .	O
-	Before	O
+
+Before	O
 and	O
 after	O
 those	B-Landmark_event
@@ -14797,7 +15340,8 @@ to	I-Event
 the	I-Event
 islands	I-Event
 .	O
-	They	B-Cognizer
+
+They	B-Cognizer
 were	O
 there	O
 to	O
@@ -14835,7 +15379,8 @@ against	I-Role
 an	I-Role
 enemy	I-Role
 .	O
-	In	O
+
+In	O
 the	O
 sizable	B-Q_Prop
 number	B-Quantity
@@ -14876,7 +15421,8 @@ and	I-Entity
 dagger	I-Entity
 past	B-Events
 .	O
-	But	O
+
+But	O
 20	B-Distance
 years	I-Distance
 after	B-Relative_time
@@ -14918,7 +15464,8 @@ Standard	O
 (	O
 Link	O
 )	O
-	[	O
+
+[	O
 Washington	O
 ]	O
 Post	O
@@ -14933,7 +15480,8 @@ on	O
 WMD	B-Weapon
 validity	O
 ignored	O
-	A	B-Message
+
+A	B-Message
 former	I-Message
 CIA	I-Message
 officer	I-Message
@@ -14974,7 +15522,8 @@ Post	I-Medium
 reported	O
 Sunday	B-Unit
 .	O
-	CIA	B-Speaker
+
+CIA	B-Speaker
 officer	I-Speaker
 Tyler	I-Speaker
 Drumheller	I-Speaker
@@ -15025,7 +15574,8 @@ and	I-Cause
 a	I-Cause
 liar	I-Cause
 .	O
-	Drumheller	B-Speaker
+
+Drumheller	B-Speaker
 told	O
 the	B-Addressee
 Post	I-Addressee
@@ -15065,7 +15615,8 @@ and	I-Landmark_event
 rails	I-Landmark_event
 .	I-Landmark_event
 ''	I-Landmark_event
-	He	B-Speaker
+
+He	B-Speaker
 said	O
 he	B-Event
 also	I-Event
@@ -15111,11 +15662,13 @@ Reuters	O
 (	O
 Link	O
 )	O
-	Al-Aksa	B-Entity
+
+Al-Aksa	B-Entity
 claims	O
 chemical	B-Relevant_feature
 capabilities	I-Message
-	The	B-Speaker
+
+The	B-Speaker
 Aksa	I-Speaker
 Martyrs	I-Speaker
 Brigades	I-Speaker
@@ -15134,7 +15687,8 @@ and	I-Product
 biological	B-Weapon
 weapons	I-Weapon
 .	O
-	In	O
+
+In	O
 a	B-Individuals
 leaflet	I-Individuals
 distributed	O
@@ -15171,7 +15725,8 @@ three	B-Count
 year	B-Unit
 effort	I-Message
 .	O
-	According	O
+
+According	O
 to	O
 the	B-Text
 statement	B-Message
@@ -15201,7 +15756,8 @@ and	I-Category
 chemical	I-Category
 weapons	I-Category
 .	O
-	The	B-Speaker
+
+The	B-Speaker
 group	I-Speaker
 said	O
 its	B-Group
@@ -15228,7 +15784,8 @@ almost	B-Time
 every	I-Time
 day	B-Unit
 .	O
-	It	B-Agent
+
+It	B-Agent
 also	O
 threatened	O
 to	B-Message
@@ -15264,7 +15821,8 @@ Toameh	O
 (	O
 Link	O
 )	O
-	Islamists	B-Content
+
+Islamists	B-Content
 will	I-Content
 set	I-Content
 off	I-Content
@@ -15274,7 +15832,8 @@ bomb	I-Content
 spy	B-Cognizer
 bosses	I-Cognizer
 believe	O
-	Spy	B-Experiencer
+
+Spy	B-Experiencer
 chiefs	I-Experiencer
 fear	O
 that	B-Content
@@ -15289,7 +15848,8 @@ when	I-Type
 not	I-Type
 if	I-Type
 ''	I-Type
-	Islamist	B-Agent
+
+Islamist	B-Agent
 terrorists	I-Agent
 launch	I-Phenomenon
 a	B-Process
@@ -15311,7 +15871,8 @@ Telegraph	I-Cognizer
 has	O
 learnt	O
 .	O
-	Security	B-Speaker
+
+Security	B-Speaker
 sources	I-Speaker
 have	O
 disclosed	O
@@ -15347,7 +15908,8 @@ is	I-Trajector_event
 now	I-Opinion
 inevitable	B-Trajector_event
 .	O
-	The	B-Event
+
+The	B-Event
 warning	I-Event
 comes	I-Event
 three	B-Distance
@@ -15384,7 +15946,8 @@ a	I-Landmark_event
 chemical	I-Landmark_event
 bomb	I-Landmark_event
 .	O
-	It	B-Focal_occasion
+
+It	B-Focal_occasion
 follows	O
 growing	B-Landmark_occasion
 concern	I-Landmark_occasion
@@ -15437,7 +16000,8 @@ Rayment	O
 (	O
 Link	O
 )	O
-	Tuesday	B-Time
+
+Tuesday	B-Time
 's	I-Time
 rout	I-Stimulus
 of	B-Loser
@@ -15488,7 +16052,8 @@ past	B-Relative_time
 half	B-Count
 century	B-Unit
 .	O
-	In	O
+
+In	O
 only	O
 one	B-Number
 presidential	B-Salient_event
@@ -15525,7 +16090,8 @@ House	I-Previous_context
 of	I-Previous_context
 Representatives	I-Previous_context
 .	O
-	Now	B-Landmark_period
+
+Now	B-Landmark_period
 that	B-Trajector_event
 percentage	I-Trajector_event
 routinely	I-Trajector_event
@@ -15540,7 +16106,8 @@ above	I-Event
 40	B-Number
 %	B-Entity
 .	O
-	As	B-Content
+
+As	B-Content
 we	B-Cognizer
 know	O
 ,	O
@@ -15560,7 +16127,8 @@ those	I-Degree
 for	I-Degree
 Congress	I-Degree
 .	O
-	In	O
+
+In	O
 every	O
 presidential	B-Leader
 election	O
@@ -15604,7 +16172,8 @@ vote	I-Theme
 for	I-Theme
 Congress	I-Theme
 .	O
-	Prior	B-Direction
+
+Prior	B-Direction
 to	B-Landmark_event
 1932	I-Landmark_event
 ,	O
@@ -15615,7 +16184,8 @@ nearly	I-Event
 the	I-Event
 opposite	I-Event
 .	O
-	What	B-Fact
+
+What	B-Fact
 accounts	O
 for	B-State_of_affairs
 the	I-State_of_affairs
@@ -15624,7 +16194,8 @@ of	B-Cause
 recent	I-Cause
 decades	B-Focal_occasion
 ?	O
-	A	B-Supplier
+
+A	B-Supplier
 simple	I-Supplier
 economic	I-Supplier
 theory	I-Supplier
@@ -15647,14 +16218,16 @@ the	I-Theme
 voting	I-Theme
 booth	I-Theme
 .	O
-	The	B-Protagonist
+
+The	B-Protagonist
 theory	I-Protagonist
 relies	O
 on	B-Means
 three	I-Means
 assumptions	I-Means
 :	O
-	1	O
+
+1	O
 )	O
 Voters	B-Trajector_event
 can	I-Trajector_event
@@ -15720,7 +16293,8 @@ of	I-Affliction
 private	I-Affliction
 interest	I-Affliction
 .	O
-	2	O
+
+2	O
 )	O
 Congressional	B-Focal_occasion
 representatives	I-Focal_occasion
@@ -15773,7 +16347,8 @@ pork	I-Entity
 barrel	I-Entity
 )	I-Entity
 .	O
-	3	O
+
+3	O
 )	O
 Republican	B-Effect
 congressional	I-Effect
@@ -15803,7 +16378,8 @@ members	I-Effect
 of	I-Effect
 Congress	I-Effect
 .	O
-	If	B-Circumstances
+
+If	B-Circumstances
 these	I-Circumstances
 assumptions	I-Circumstances
 hold	I-Circumstances
@@ -15837,7 +16413,8 @@ to	I-Entity
 lean	I-Entity
 Democratic	I-Entity
 .	O
-	If	O
+
+If	O
 they	B-Agent
 put	O
 a	B-Trajector
@@ -15880,7 +16457,8 @@ their	B-Landmark
 respective	I-Landmark
 constituencies	I-Landmark
 .	O
-	Each	O
+
+Each	O
 legislator	B-Leader
 ,	O
 after	O
@@ -15900,7 +16478,8 @@ national	B-Jurisdiction
 policy	B-Law
 making	O
 .	O
-	Although	O
+
+Although	O
 a	B-Statement
 GOP	I-Statement
 president	I-Statement
@@ -15939,7 +16518,8 @@ the	I-Main_statement
 local	I-Main_statement
 benefits	I-Main_statement
 .	O
-	The	O
+
+The	O
 individual	O
 voter	O
 's	O
@@ -15952,7 +16532,8 @@ through	O
 lower	B-Degree
 taxes	B-Item
 .	O
-	While	O
+
+While	O
 this	B-Statement
 theory	I-Statement
 is	I-Statement
@@ -15966,7 +16547,8 @@ explain	I-Main_statement
 several	I-Main_statement
 things	I-Main_statement
 .	O
-	First	O
+
+First	O
 ,	O
 why	O
 ticket	B-Whole
@@ -16029,7 +16611,8 @@ considerably	I-Event
 less	I-Event
 severe	I-Event
 .	O
-	Second	O
+
+Second	O
 ,	O
 it	B-Fact
 explains	O
@@ -16079,7 +16662,8 @@ his	I-Intended_event
 own	I-Intended_event
 constituency	I-Intended_event
 .	O
-	Third	O
+
+Third	O
 ,	O
 the	B-Support
 theory	I-Support
@@ -16105,7 +16689,8 @@ security	B-Item
 in	B-Domain
 office	I-Domain
 .	O
-	For	O
+
+For	O
 example	O
 ,	O
 first-term	B-Asset
@@ -16128,7 +16713,8 @@ immune	I-Final_state
 to	I-Final_state
 defeat	I-Final_state
 .	O
-	The	O
+
+The	O
 one	B-Number
 exception	B-Entity
 to	O
@@ -16161,7 +16747,8 @@ re-election	I-Trajector_event
 in	I-Loser
 1982	B-Landmark_period
 .	O
-	Because	O
+
+Because	O
 these	B-Cause
 freshmen	I-Cause
 placed	I-Cause
@@ -16190,7 +16777,8 @@ vulnerable	I-Effect
 to	I-Effect
 defeat	I-Effect
 .	O
-	Fourth	O
+
+Fourth	O
 ,	O
 the	B-Support
 theory	I-Support
@@ -16211,7 +16799,8 @@ for	I-Proposition
 congressional	I-Proposition
 office	I-Proposition
 .	O
-	Potential	B-Addressee
+
+Potential	B-Addressee
 candidates	B-Entity
 may	O
 be	B-Hypothetical_event
@@ -16237,7 +16826,8 @@ a	I-Possessor
 Democratic	B-Side
 opponent	I-Possessor
 .	O
-	To	B-Degree
+
+To	B-Degree
 the	I-Degree
 extent	I-Degree
 that	I-Degree
@@ -16279,7 +16869,8 @@ of	I-Goal
 congressional	I-Goal
 candidates	I-Goal
 .	O
-	Fifth	O
+
+Fifth	O
 ,	O
 the	B-Supplier
 theory	I-Supplier
@@ -16302,7 +16893,8 @@ in	I-Theme
 the	I-Theme
 South	I-Theme
 .	O
-	To	O
+
+To	O
 the	O
 extent	O
 that	O
@@ -16357,7 +16949,8 @@ Democrats	I-Entity
 in	I-Entity
 office	I-Entity
 .	O
-	Finally	O
+
+Finally	O
 ,	O
 the	B-Support
 theory	I-Support
@@ -16378,7 +16971,8 @@ for	I-Proposition
 the	I-Proposition
 House	I-Proposition
 .	O
-	Since	O
+
+Since	O
 local	B-Figure
 benefit-seeking	I-Figure
 matters	I-Figure
@@ -16419,7 +17013,8 @@ their	I-Effect
 Democratic	I-Effect
 counterparts	I-Effect
 .	O
-	Is	O
+
+Is	O
 there	O
 any	B-Entity
 empirical	I-Entity
@@ -16428,7 +17023,8 @@ for	I-Entity
 this	I-Entity
 theory	I-Entity
 ?	O
-	Three	B-Support
+
+Three	B-Support
 pieces	I-Support
 of	I-Support
 evidence	I-Support
@@ -16452,7 +17048,8 @@ their	I-Degree
 Republican	I-Degree
 colleagues	I-Degree
 .	O
-	First	O
+
+First	O
 ,	O
 economists	B-Cognizer
 James	I-Cognizer
@@ -16480,7 +17077,8 @@ than	I-Phenomenon
 Democrats	I-Phenomenon
 do	I-Phenomenon
 .	O
-	To	O
+
+To	O
 the	O
 extent	O
 that	O
@@ -16511,7 +17109,8 @@ narrow	I-Proposition
 constituent	I-Proposition
 concerns	I-Proposition
 .	O
-	Second	O
+
+Second	O
 ,	O
 if	B-Circumstances
 the	B-Binding_principle
@@ -16562,7 +17161,8 @@ to	I-Source
 local	B-Landmark
 benefit-seeking	I-Landmark
 .	O
-	This	O
+
+This	O
 is	O
 indeed	O
 what	B-Proposition
@@ -16578,7 +17178,8 @@ of	O
 the	O
 House	O
 .	O
-	The	B-Event
+
+The	B-Event
 Democratic	B-Agent
 House	B-Event
 attendance	I-Event
@@ -16594,7 +17195,8 @@ rate	I-Event
 since	B-Direction
 1959	B-Landmark_event
 .	O
-	Finally	O
+
+Finally	O
 ,	O
 as	B-Proposition
 shown	B-Figure
@@ -16633,7 +17235,8 @@ to	I-Figure
 Washington	I-Figure
 offices	I-Figure
 .	O
-	An	B-Support
+
+An	B-Support
 examination	I-Support
 of	I-Support
 changes	I-Support
@@ -16696,7 +17299,8 @@ as	I-Proposition
 committee	B-Position
 staff	B-Employee
 .	O
-	An	B-Added_set
+
+An	B-Added_set
 additional	I-Added_set
 piece	I-Added_set
 of	I-Added_set
@@ -16765,7 +17369,8 @@ states	B-Locale
 harder	I-Determinant
 )	I-Determinant
 .	O
-	Put	O
+
+Put	O
 more	B-Manner
 simply	I-Manner
 ,	O
@@ -16795,7 +17400,8 @@ is	I-Message
 more	I-Message
 severe	I-Message
 .	O
-	Moreover	O
+
+Moreover	O
 ,	O
 ticket	B-Figure
 splitting	I-Figure
@@ -16819,7 +17425,8 @@ the	I-Characterization
 federal	B-Locale
 level	I-Characterization
 .	O
-	State	B-Locale
+
+State	B-Locale
 government	B-Leader
 is	O
 more	O
@@ -16832,7 +17439,8 @@ than	O
 the	O
 reverse	O
 .	O
-	A	B-Support
+
+A	B-Support
 cross-state	I-Support
 econometric	I-Support
 investigation	I-Support
@@ -16880,7 +17488,8 @@ state	B-Locale
 tax	I-Determinant
 rate	I-Determinant
 .	O
-	In	O
+
+In	O
 sum	O
 ,	O
 at	B-Hypothetical_event
@@ -16912,7 +17521,8 @@ exceedingly	I-Figure
 rational	I-Figure
 explanation	I-Figure
 .	O
-	Mr.	B-Figure
+
+Mr.	B-Figure
 Zupan	I-Figure
 teaches	I-Figure
 at	B-Institution
@@ -16925,4 +17535,4 @@ California	I-Ground
 business	I-Ground
 school	I-Ground
 .	O
-	
+
