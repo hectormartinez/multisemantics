@@ -45,7 +45,7 @@ for d in fn.documents():
                      lemma, pos = annotation["luName"].split(".")
                      #lemma = normalizeLemma(lemma)
                      frameID = str(annotation["frameID"])
-                     framename = annotation["frameName"]
+                     framename = "TARGET" #annotation["frameName"]
                      arguments = {}
                      for x in annotation["layer"]:
                          if x["name"] == "Target":
@@ -84,7 +84,7 @@ for d in fn.documents():
                                             local_frame_elements[t] = "I-"+fe_name
                                     # TODO arguments.append(FrameArgument(fe_name,starttoken,endtoken))
                                     arguments[fe_name] = FrameArgument(fe_name,starttoken,endtoken)
-                             #print(signature,framename,[str(a) for a in arguments])
+                             print(signature,framename,[str(a) for a in arguments])
                      s.addFrame(framename,frameindex,arguments)
                  else:
                     for layer in annotation["layer"]:
@@ -114,20 +114,19 @@ for d in fn.documents():
 
 
         outname = targetfolder[d["filename"]] + "/" + d["filename"].replace(".xml", "")
-        # fout = codecs.open(outname+".fn",mode="w",encoding="utf-8")
-        # for s in sentences:
-        # s.correct_indices()
-        #     fout.write("\n".join(s.print_form_target())+"\n")
-        # fout.close()
+        fout = codecs.open(outname+".targets",mode="w",encoding="utf-8")
+        for s in sentences:
+            fout.write("\n".join(s.print_form_target())+"\n")
+        fout.close()
 
-        outname = targetfolder[d["filename"]] + "/" + d["filename"].replace(".xml", "")
-        fout = codecs.open(outname+".fes",mode="w",encoding="utf-8")
-        for s,f in zip(sentences,FrameElement_bitmasks):
-            if f.count("O") == len(f):
-                pass
-            else:
-                for w,t in zip(s.textlist,f):
-                    fout.write(w+"\t"+t+"\n")
-                fout.write("\t")
+        #outname = targetfolder[d["filename"]] + "/" + d["filename"].replace(".xml", "")
+        #fout = codecs.open(outname+".fes",mode="w",encoding="utf-8")
+        #for s,f in zip(sentences,FrameElement_bitmasks):
+        #    if f.count("O") == len(f):
+        #        pass
+        #    else:
+        #        for w,t in zip(s.textlist,f):
+        #            fout.write(w+"\t"+t+"\n")
+        #        fout.write("\t")
         sentences = []
         FrameElement_bitmasks = []
