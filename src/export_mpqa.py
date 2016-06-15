@@ -1,11 +1,19 @@
 import argparse
 from collections import Counter, defaultdict
 import re
+import sys
+from nltk.tokenize import wordpunct_tokenize
 
 def get_polarity_label(line):
-    m = re.search('polarity="(.+?)"',line)
-    return m.group(1)
-
+        m = re.search('polarity="(.+?)"',line)
+        if m:
+            if m.group(1):
+                return m.group(1)
+            else:
+                print("NA2"+line, file=sys.stderr)
+        else:
+            print("NA1" + line, file=sys.stderr)
+            #return "negative" #this is a patch for a disagreement that yields a spurious match in the data, NOT a backoff
 def main():
 
     parser = argparse.ArgumentParser(description="")
@@ -42,7 +50,7 @@ def main():
                 begin, end = line.strip().split("\t")[1].split(',')
                 begin = int(begin)
                 end = int(end)
-                if 'polarity' in line and end > begin:  # we skip implicit
+                if re.search('polarity="(.+?)"',line) and end > begin:  # we skip implicit
                     subjectives[begin] = end
                     label = get_polarity_label(line)
                     spanlabels[begin] = label
@@ -63,24 +71,23 @@ def main():
         for i in range(sentence_start, sentence_end):
             if i in visited:
                 pass
-            elif i in subjectives.keys():  ##TODO: Control for length 1 spans!!
-                for t in acc.split(" "):
+            elif i in subjectives.keys():
+                for t in wordpunct_tokenize(acc.strip()):
                     if t:
                         print(t + "\tO")
                 acc = ''
                 spanout = docstring[i:subjectives[i]]
-                #print(docstring[i:subjectives[i]],"::",i, subjectives[i],spanlabels[i])
-                for j,t in enumerate(spanout.split(" ")):
+                for j,t in enumerate(wordpunct_tokenize(spanout.strip())):
+                    currentlabel = spanlabels[i]
                     if j == 0:
-                        outlabel = "B-"+spanlabels[i]
+                            outlabel = "B-"+currentlabel
                     else:
-                        outlabel = "I-"+spanlabels[i]
-
-                    print(t,outlabel)
+                            outlabel = "I-"+currentlabel
+                    print(t+"\t"+outlabel)
                 visited.extend(range(i,subjectives[i]))
             else:
                 acc+=docstring[i]
-        for t in acc.split(" "):
+        for t in wordpunct_tokenize(acc.strip()):
             if t:
                 print(t+"\tO")
         print()
