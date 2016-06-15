@@ -79,7 +79,7 @@ ubiquity	NOUN
 might	AUX
 backfire	VERB
 --	PUNCT
-which	DET
+which	PRON
 we	PRON
 've	AUX
 all	ADV
@@ -218,7 +218,7 @@ pictures	NOUN
 shows	VERB
 a	DET
 flag	NOUN
-that	DET
+that	PRON
 was	AUX
 found	VERB
 in	ADP
@@ -298,7 +298,7 @@ Google	PROPN
 new	ADJ
 toolbar	NOUN
 ,	PUNCT
-which	DET
+which	PRON
 ,	PUNCT
 as	SCONJ
 noted	VERB
@@ -544,7 +544,7 @@ wiped	VERB
 off	ADP
 the	DET
 map	NOUN
-which	DET
+which	PRON
 he	PRON
 could	AUX
 n't	PART
@@ -751,7 +751,7 @@ Fallujah	PROPN
 condemn	VERB
 the	DET
 massacre	NOUN
-which	DET
+which	PRON
 was	AUX
 committed	VERB
 on	ADP
@@ -939,7 +939,7 @@ a	DET
 -	SYM
 3	NUM
 decision	NOUN
-that	DET
+that	PRON
 is	VERB
 185	NUM
 pages	NOUN
@@ -995,7 +995,7 @@ and	CONJ
 VII	NUM
 ,	PUNCT
 in	ADP
-which	DET
+which	PRON
 KENNEDY	PROPN
 ,	PUNCT
 SOUTER	PROPN
@@ -1022,7 +1022,7 @@ D	NOUN
 iv	NUM
 ,	PUNCT
 in	ADP
-which	DET
+which	PRON
 SOUTER	PROPN
 ,	PUNCT
 GINSBURG	PROPN
@@ -1039,7 +1039,7 @@ concurring	VERB
 opinion	NOUN
 ,	PUNCT
 in	ADP
-which	DET
+which	PRON
 KENNEDY	PROPN
 ,	PUNCT
 SOUTER	PROPN
@@ -1058,7 +1058,7 @@ in	ADP
 part	ADJ
 ,	PUNCT
 in	ADP
-which	DET
+which	PRON
 SOUTER	PROPN
 ,	PUNCT
 GINSBURG	PROPN
@@ -1081,7 +1081,7 @@ dissenting	VERB
 opinion	NOUN
 ,	PUNCT
 in	ADP
-which	DET
+which	PRON
 THOMAS	PROPN
 and	CONJ
 ALITO	PROPN
@@ -1095,13 +1095,13 @@ dissenting	VERB
 opinion	NOUN
 ,	PUNCT
 in	ADP
-which	DET
+which	PRON
 SCALIA	PROPN
 joined	VERB
 ,	PUNCT
 and	CONJ
 in	ADP
-which	DET
+which	PRON
 ALITO	PROPN
 joined	VERB
 as	ADP
@@ -1132,7 +1132,7 @@ dissenting	VERB
 opinion	NOUN
 ,	PUNCT
 in	ADP
-which	DET
+which	PRON
 SCALIA	PROPN
 and	CONJ
 THOMAS	PROPN
@@ -1416,7 +1416,7 @@ troops	NOUN
 to	ADP
 an	DET
 area	NOUN
-that	DET
+that	PRON
 will	AUX
 need	VERB
 15,000	NUM
@@ -1437,7 +1437,7 @@ of	ADP
 the	DET
 relief	NOUN
 aid	NOUN
-that	DET
+that	PRON
 Darfur	PROPN
 needs	VERB
 ,	PUNCT
@@ -1509,7 +1509,7 @@ It	PRON
 's	VERB
 a	DET
 move	NOUN
-that	DET
+that	PRON
 really	ADV
 worries	VERB
 me	PRON
@@ -1596,7 +1596,7 @@ as	SCONJ
 possible	ADJ
 .	PUNCT
 
-Which	DET
+Which	PRON
 essentially	ADV
 sounds	VERB
 like	SCONJ
@@ -1785,7 +1785,7 @@ of	ADP
 shares	NOUN
 each	DET
 year	NOUN
-that	DET
+that	PRON
 decrease	VERB
 in	ADP
 number	NOUN
@@ -1975,7 +1975,7 @@ UNSC	PROPN
 Resolution	PROPN
 1559	NUM
 ,	PUNCT
-which	DET
+which	PRON
 has	AUX
 already	ADV
 begun	VERB
@@ -2211,7 +2211,7 @@ This	PRON
 is	VERB
 the	DET
 organization	NOUN
-that	DET
+that	PRON
 bombed	VERB
 our	PRON
 Marine	PROPN
@@ -2427,7 +2427,7 @@ city	NOUN
 the	DET
 population	NOUN
 of	ADP
-which	DET
+which	PRON
 is	VERB
 Muslim	ADJ
 (	PUNCT
@@ -2557,7 +2557,7 @@ the	DET
 banner	NOUN
 of	ADP
 forces	NOUN
-that	DET
+that	PRON
 do	AUX
 not	PART
 respect	VERB
@@ -2811,7 +2811,7 @@ advocacy	NOUN
 group	NOUN
 .	PUNCT
 
-Which	DET
+Which	PRON
 is	VERB
 why	ADV
 he	PRON
@@ -3189,7 +3189,7 @@ Steven	PROPN
 the	DET
 one	NUM
 word	NOUN
-that	DET
+that	PRON
 did	AUX
 n't	PART
 crash	VERB
@@ -3523,7 +3523,7 @@ Wahhabi	ADJ
 school	NOUN
 of	ADP
 Islam	PROPN
-that	DET
+that	PRON
 predominates	VERB
 among	ADP
 Saudia	PROPN
@@ -3659,7 +3659,7 @@ modern	ADJ
 Islamic	ADJ
 thought	NOUN
 ,	PUNCT
-which	DET
+which	PRON
 has	VERB
 a	DET
 Protestant	PROPN
@@ -3842,7 +3842,7 @@ Fizazi	PROPN
 group	NOUN
 in	ADP
 Tangiers	NOUN
-that	DET
+that	PRON
 morphed	VERB
 into	SCONJ
 the	DET
@@ -3892,13 +3892,13 @@ notes	VERB
 10	NUM
 points	NOUN
 at	ADP
-which	DET
+which	PRON
 the	DET
 US	PROPN
 made	VERB
 key	ADJ
 mistakes	NOUN
-that	DET
+that	PRON
 might	AUX
 have	AUX
 stopped	VERB
@@ -4259,7 +4259,7 @@ al	PROPN
 -	PUNCT
 Qaeda	PROPN
 bases	NOUN
-that	DET
+that	PRON
 had	AUX
 trained	VERB
 the	DET
@@ -4292,7 +4292,7 @@ or	CONJ
 al	PROPN
 -	PUNCT
 Qaeda	PROPN
-that	DET
+that	PRON
 it	PRON
 could	AUX
 pull	VERB
@@ -4497,7 +4497,7 @@ in	ADP
 summer	NOUN
 of	ADP
 1999	NUM
-that	DET
+that	PRON
 would	AUX
 have	AUX
 allowed	VERB
@@ -4878,7 +4878,7 @@ i	PRON
 was	AUX
 thinking	VERB
 somewhere	NOUN
-that	DET
+that	PRON
 requires	VERB
 a	DET
 jacket	NOUN
@@ -4889,7 +4889,7 @@ tony	PROPN
 .	PUNCT
 
 someplace	NOUN
-that	DET
+that	PRON
 is	VERB
 like	ADP
 $	SYM
@@ -5255,7 +5255,7 @@ This	PRON
 was	VERB
 a	DET
 risk	NOUN
-that	DET
+that	PRON
 we	PRON
 had	VERB
 but	CONJ
@@ -5658,7 +5658,7 @@ from	ADP
 the	DET
 press	NOUN
 conference	NOUN
-that	DET
+that	PRON
 he	PRON
 launched	VERB
 today	NOUN
@@ -6588,7 +6588,7 @@ replenish	VERB
 "	PUNCT
 the	DET
 CASH	NOUN
-that	DET
+that	PRON
 was	AUX
 drawn	VERB
 down	ADV
@@ -6845,7 +6845,7 @@ for	ADP
 our	PRON
 Paragraph	NOUN
 13s	NOUN
-which	DET
+which	PRON
 are	AUX
 attached	VERB
 to	ADP
@@ -8457,7 +8457,7 @@ Attached	VERB
 is	AUX
 a	DET
 spreadsheet	NOUN
-that	DET
+that	PRON
 contains	VERB
 the	DET
 values	NOUN
@@ -8500,7 +8500,7 @@ reduction	NOUN
 of	ADP
 22,101	NUM
 MMBTU	NOUN
-which	DET
+which	PRON
 is	VERB
 the	DET
 difference	NOUN
@@ -8512,7 +8512,7 @@ values	NOUN
 Best	ADJ
 Available	ADJ
 )	PUNCT
-that	DET
+that	PRON
 Anita	PROPN
 showed	VERB
 on	ADP
@@ -8529,7 +8529,7 @@ official	ADJ
 February	PROPN
 29th	NOUN
 values	NOUN
-that	DET
+that	PRON
 Gary	PROPN
 Wilson	PROPN
 received	VERB
@@ -8808,7 +8808,7 @@ information	NOUN
 in	ADP
 this	DET
 message	NOUN
-that	DET
+that	PRON
 do	AUX
 not	PART
 relate	VERB
@@ -8865,7 +8865,7 @@ a	DET
 small	ADJ
 law	NOUN
 firm	NOUN
-that	DET
+that	PRON
 is	AUX
 looking	VERB
 for	ADP
@@ -9144,7 +9144,7 @@ ex	X
 natural	ADJ
 gas	NOUN
 traders	NOUN
-that	DET
+that	PRON
 made	VERB
 their	PRON
 now	ADV
@@ -9486,7 +9486,7 @@ favor	NOUN
 of	ADP
 the	DET
 banks	NOUN
-which	DET
+which	PRON
 was	AUX
 granted	VERB
 in	ADP
@@ -9535,7 +9535,7 @@ be	VERB
 in	ADP
 a	DET
 form	NOUN
-that	DET
+that	PRON
 will	AUX
 acceptable	ADJ
 to	ADP
@@ -9555,7 +9555,7 @@ start	VERB
 with	ADP
 a	DET
 form	NOUN
-that	DET
+that	PRON
 was	AUX
 used	VERB
 in	ADP
@@ -9563,7 +9563,7 @@ our	PRON
 last	ADJ
 financing	NOUN
 and	CONJ
-that	DET
+that	PRON
 was	AUX
 negotiated	VERB
 by	ADP
@@ -9585,7 +9585,7 @@ for	ADP
 the	DET
 Enron	PROPN
 guaranty	NOUN
-that	DET
+that	PRON
 will	AUX
 be	AUX
 made	VERB
@@ -10013,7 +10013,7 @@ the	DET
 kind	NOUN
 of	ADP
 issues	NOUN
-that	DET
+that	PRON
 we	PRON
 discussed	VERB
 and	CONJ
@@ -10522,7 +10522,7 @@ an	DET
 ideal	ADJ
 environment	NOUN
 from	ADP
-which	DET
+which	PRON
 to	ADP
 the	DET
 concept	NOUN
@@ -10564,7 +10564,7 @@ your	PRON
 building	NOUN
 or	CONJ
 elsewhere	ADV
-that	DET
+that	PRON
 is	VERB
 appropriate	ADJ
 .	PUNCT
@@ -10689,7 +10689,7 @@ the	DET
 traders	NOUN
 and	CONJ
 books	NOUN
-that	DET
+that	PRON
 you	PRON
 provided	VERB
 last	ADJ
@@ -11285,7 +11285,7 @@ of	ADP
 the	DET
 risk	NOUN
 people	NOUN
-that	DET
+that	PRON
 will	AUX
 be	VERB
 with	ADP
@@ -11908,7 +11908,7 @@ and	CONJ
 more	ADJ
 !	PUNCT
 
-..	SYM
+..	PUNCT
 
 Email	NOUN
 :	PUNCT
@@ -12388,7 +12388,7 @@ in	ADP
 the	DET
 cortex	NOUN
 ,	PUNCT
-which	DET
+which	PRON
 has	VERB
 important	ADJ
 implications	NOUN
@@ -12936,7 +12936,7 @@ can	AUX
 accomplish	VERB
 these	DET
 goals	NOUN
-which	DET
+which	PRON
 will	AUX
 not	ADV
 only	ADV
@@ -13856,7 +13856,7 @@ taking	VERB
 action	NOUN
 on	ADP
 issues	NOUN
-that	DET
+that	PRON
 concern	VERB
 them	PRON
 .	PUNCT
@@ -14287,7 +14287,7 @@ by	ADP
 a	DET
 bomb	NOUN
 ,	PUNCT
-THAT	DET
+THAT	PRON
 would	AUX
 be	VERB
 a	DET
@@ -14401,7 +14401,7 @@ utilizes	VERB
 a	DET
 unique	ADJ
 architecture	NOUN
-that	DET
+that	PRON
 will	AUX
 establish	VERB
 the	DET
@@ -15639,7 +15639,7 @@ sale	NOUN
 
 roflmao	INTJ
 
-Which	DET
+Which	PRON
 do	AUX
 you	PRON
 prefer	VERB
@@ -15792,7 +15792,7 @@ Delhi	PROPN
 Any	DET
 particular	ADJ
 shop	NOUN
-that	DET
+that	PRON
 you	PRON
 know	VERB
 of	ADP
@@ -15918,7 +15918,7 @@ a	DET
 variety	NOUN
 of	ADP
 sports	NOUN
-that	DET
+that	PRON
 they	PRON
 play	VERB
 like	ADP
@@ -16096,7 +16096,7 @@ and	CONJ
 autocorrects.com	X
 but	CONJ
 ones	NOUN
-that	DET
+that	PRON
 are	VERB
 n't	PART
 very	ADV
@@ -16479,7 +16479,7 @@ find	VERB
 at	ADP
 a	DET
 carnival	NOUN
-that	DET
+that	PRON
 comes	VERB
 on	ADP
 a	DET
@@ -16735,7 +16735,7 @@ noticed	VERB
 two	NUM
 other	ADJ
 breeds	NOUN
-that	DET
+that	PRON
 look	VERB
 a	DET
 lot	NOUN
@@ -17520,7 +17520,7 @@ you	PRON
 call	VERB
 the	DET
 device	NOUN
-that	DET
+that	PRON
 hold	VERB
 up	ADP
 your	PRON
@@ -17615,7 +17615,7 @@ norweigan	PROPN
 (	PUNCT
 cruises	NOUN
 )	PUNCT
-which	DET
+which	PRON
 is	VERB
 the	DET
 best	ADJ
@@ -17713,7 +17713,7 @@ up	ADP
 to	ADP
 a	DET
 computer	NOUN
-that	DET
+that	PRON
 is	AUX
 turned	VERB
 off	ADP
@@ -17767,7 +17767,7 @@ sleep	NOUN
 charge	NOUN
 now	ADV
 ,	PUNCT
-that	DET
+that	PRON
 allow	VERB
 the	DET
 PC	NOUN
@@ -17835,7 +17835,7 @@ Here	ADV
 are	VERB
 some	DET
 articles	NOUN
-that	DET
+that	PRON
 discuss	VERB
 the	DET
 details	NOUN
@@ -17907,7 +17907,7 @@ looking	VERB
 for	ADP
 a	DET
 camera	NOUN
-that	DET
+that	PRON
 has	VERB
 really	ADV
 good	ADJ
@@ -18263,7 +18263,7 @@ need	VERB
 a	DET
 heat	NOUN
 source	NOUN
-that	DET
+that	PRON
 creates	VERB
 a	DET
 basking	NOUN
@@ -19017,7 +19017,7 @@ similar	ADJ
 bands	NOUN
 to	ADP
 them	PRON
-that	DET
+that	PRON
 are	VERB
 from	ADP
 the	DET
@@ -19227,7 +19227,7 @@ because	ADP
 of	ADP
 the	DET
 buffer	NOUN
-that	DET
+that	PRON
 holds	VERB
 the	DET
 data	NOUN
@@ -19589,7 +19589,7 @@ Chicago	PROPN
 area	NOUN
 ?	PUNCT
 
-which	DET
+which	PRON
 is	VERB
 the	DET
 best	ADJ
@@ -19657,7 +19657,7 @@ a	DET
 great	ADJ
 burger	NOUN
 formula	NOUN
-that	DET
+that	PRON
 started	VERB
 about	ADP
 80	NUM
@@ -19870,7 +19870,7 @@ gotten	VERB
 int	X
 to	ADP
 something	NOUN
-that	DET
+that	PRON
 needs	VERB
 to	PART
 be	AUX
@@ -20037,7 +20037,7 @@ disrespecting	ADJ
 -	PUNCT
 wasted	VERB
 time	NOUN
-that	DET
+that	PRON
 could	AUX
 have	AUX
 been	AUX
@@ -21147,7 +21147,7 @@ I	PRON
 choose	VERB
 the	DET
 one	NOUN
-that	DET
+that	PRON
 sounds	VERB
 the	DET
 best	ADV
@@ -21481,7 +21481,7 @@ Lights	NOUN
 
 Best	ADJ
 ceviche	NOUN
-that	DET
+that	PRON
 I	PRON
 'd	AUX
 had	VERB
@@ -22564,7 +22564,7 @@ And	CONJ
 from	ADP
 a	DET
 place	NOUN
-that	DET
+that	PRON
 specializes	VERB
 in	ADP
 high	ADJ
@@ -22588,7 +22588,7 @@ had	VERB
 
 Great	ADJ
 meats	NOUN
-that	DET
+that	PRON
 are	VERB
 already	ADV
 cooked	VERB
@@ -22828,7 +22828,7 @@ done	VERB
 at	ADP
 karol	PROPN
 bagh	PROPN
-which	DET
+which	PRON
 is	AUX
 done	VERB
 under	ADP
@@ -23347,7 +23347,7 @@ FOR	ADP
 NOTHING	NOUN
 !!!!!!!!!!!!!!!!!!!	PUNCT
 
-THIS	DET
+THIS	PRON
 IS	VERB
 THE	DET
 WORST	ADJ
@@ -24700,7 +24700,7 @@ contractor	NOUN
 with	ADP
 the	DET
 credentials	NOUN
-that	DET
+that	PRON
 Farrell	PROPN
 Electric	PROPN
 has	VERB
@@ -24852,14 +24852,14 @@ rushi	PROPN
 
 can	AUX
 ever	ADV
-&	VERB
+&	CONJ
 never	ADV
 forget	VERB
 the	DET
 training	NOUN
 undergone	VERB
 here	ADV
-which	DET
+which	PRON
 made	VERB
 my	PRON
 life	NOUN
@@ -24967,7 +24967,7 @@ eyebrows	NOUN
 were	VERB
 cheap	ADJ
 !	PUNCT
-)	SYM
+)	PUNCT
 .	PUNCT
 
 It	PRON
@@ -25477,7 +25477,7 @@ name	VERB
 your	PRON
 business	NOUN
 something	NOUN
-that	DET
+that	PRON
 has	VERB
 the	DET
 initials	NOUN
@@ -25923,7 +25923,7 @@ on	ADP
 extra	ADJ
 services	NOUN
 ,	PUNCT
-which	DET
+which	PRON
 sometimes	ADV
 is	AUX
 not	PART
@@ -26033,7 +26033,7 @@ busy	ADJ
 ,	PUNCT
 too	ADV
 ,	PUNCT
-which	DET
+which	PRON
 is	VERB
 a	DET
 good	ADJ
@@ -26097,7 +26097,7 @@ payment	NOUN
 status	NOUN
 .	PUNCT
 
-Which	DET
+Which	PRON
 should	AUX
 be	VERB
 a	DET
@@ -26651,7 +26651,7 @@ to	ADP
 my	PRON
 family	NOUN
 members	NOUN
-that	DET
+that	PRON
 visit	VERB
 and	CONJ
 do	AUX
@@ -26718,7 +26718,7 @@ find	VERB
 the	DET
 right	ADJ
 photographers	NOUN
-that	DET
+that	PRON
 would	AUX
 represent	VERB
 our	PRON
@@ -27128,7 +27128,7 @@ provides	VERB
 deep	ADJ
 tissue	NOUN
 massage	NOUN
-which	DET
+which	PRON
 has	AUX
 significantly	ADV
 reduced	VERB
