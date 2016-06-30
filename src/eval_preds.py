@@ -1,34 +1,50 @@
 import argparse
-from sklearn.metrics import classification_report
+from sklearn.metrics import classification_report,accuracy_score,f1_score
+
+"Angry   ADJ     PROPN"
+
+outlabels = ["_","O"]
 
 
 
-def filterframe(x):
-    if x == "_":
-        return x
-    else:
-        return "TARGET"
+def flatread(infile):
+    golds = []
+    preds = []
+    for line in open(infile).readlines():
+        line = line.strip()
+        if line:
+            word, gold, pred = line.split("\t")
+            golds.append(gold)
+            preds.append(pred)
+    return (golds,preds)
 
 def main():
 
     parser = argparse.ArgumentParser(description="")
-    parser.add_argument("--infile",   metavar="FILE", default="../data/semcor_supersense/eng_semcor_test.conll")
-    parser.add_argument("--labels",   metavar="FILE", default="framenet")
+    parser.add_argument("--predictions",   metavar="FILE", default="/Users/hector/Downloads/predictions_WSJ/conll2003english_ner/conll2003english_ner_test.conll.conll2003english_ner+pos.task0")
+    parser.add_argument("--labels",   metavar="FILE", default="plain")
+    parser.add_argument("--outlabel", action="store_true")
     args = parser.parse_args()
-    if args.labels == "framenet":
-        frames_pred = []
-        frames_gold = []
-        for line in open(args.infile):
-            line = line.strip()
-            if line:
-                word,pred,gold = line.split("\t")
-                frames_gold.append(gold)
-                frames_pred.append(pred)
-        targetdetection_gold = [ filterframe(x) for x in frames_gold]
-        targetdetection_preds = [filterframe(x) for x in frames_pred]
 
-        print(classification_report(targetdetection_gold,targetdetection_preds))
-        print(classification_report(frames_gold,frames_pred))
+    if args.labels == "framenet":
+        pass
+
+    golds,preds = flatread(args.predictions)
+    if args.outlabel:
+        golds_filtered = []
+        preds_filtered = []
+        for g,p in zip(golds,preds):
+            if g in outlabels:
+                pass
+            else:
+                golds_filtered.append(g)
+                preds_filtered.append(p)
+    else:
+        golds_filtered = golds
+        preds_filtered = preds
+    #print(classification_report(golds_filtered,preds_filtered))
+    #print(accuracy_score(golds_filtered,preds_filtered))
+    print(f1_score(golds_filtered,preds_filtered,average='micro'))
 
 
 if __name__ == "__main__":
